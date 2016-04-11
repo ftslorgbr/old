@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 Agora é possível contribuir com o design ou conteúdo do site do FTSL!
 
-Acesse https://github.com/ftslorgbr/ftslorgbr.github.io e descubra como.
+Acesse o [repositório](https://github.com/ftslorgbr/ftslorgbr.github.io) e descubra como.
