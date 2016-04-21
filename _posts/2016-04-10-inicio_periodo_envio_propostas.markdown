@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sbmissão de trabalhos"
+title:  "Submissão de trabalhos"
 date:   2016-04-10 01:41:38 -0300
 categories: jekyll update
 ---
