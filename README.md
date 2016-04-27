@@ -1,9 +1,11 @@
 # ftslorgbr.github.io
 Parte estática do Site do FTSL - Fórum de Tecnologia em Software Livre (http://ftsl.org.br)
 
-Feito usando jekyll (https://jekyllrb.com)
+Feito usando jekyll 3 (https://jekyllrb.com).
 
-Este repositório está preparado para "grunt serve"
+Ver Gemfile para dependências Ruby, essas dependências podem ser instaladas com o Bundler (http://bundler.io).
+
+Este site está preparado para "jekyll serve" + "grunt serve".
 
 AFAZERES:
 - terminar de converter o leiaute das páginas principais, menu e posts;
