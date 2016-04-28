@@ -1,86 +1,46 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
- 
-  <body class="html front not-logged-in two-sidebars page-node">
-  <div id="wrapper">
-    {% include header.html %}
+{% include head.html %}
+
+<body class="html front not-logged-in two-sidebars page-node">
+<div id="wrapper">
+  {% include header.html %}
   <div id="container">
     <div class="content-sidebar-wrap">
-      <div id="content">
-        {{ content }}
-      </div>
-    </div>
+      <div id="content">{{ content }}</div>
 
       <aside id="sidebar-first" role="complementary">
         <div class="region region-sidebar-first">
-  <div id="block-user-login" class="block block-user">
+          <h2>Login do usuário</h2>
+        </div>
+      </aside>
 
-        <h2>Login do usuário</h2>
-    
-  <div class="content">
-    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
-  <label for="edit-name">E-mail or username <span class="form-required" title="Este campo é obrigatório.">*</span></label>
- <input id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" type="text">
-</div>
-<div class="form-item form-type-password form-item-pass">
-  <label for="edit-pass">Senha <span class="form-required" title="Este campo é obrigatório.">*</span></label>
- <input id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" type="password">
-</div>
-<div class="item-list"><ul><li class="first"><a href="http://ftsl.org.br/user/register" title="Criar uma nova conta de usuário.">Criar nova conta</a></li>
-<li class="last"><a href="http://ftsl.org.br/user/password" title="Solicitar uma nova senha por email.">Recuperar senha</a></li>
-</ul></div><input name="form_build_id" value="form-VyKxngv8WYkzQEnucO3NDd8u3vBd1EJqsSDZv4yV740" type="hidden">
-<input name="form_id" value="user_login_block" type="hidden">
-<div class="form-actions form-wrapper" id="edit-actions"><input id="edit-submit" name="op" value="Entrar" class="form-submit" type="submit"></div></div></form>  </div>
-  
-</div> <!-- /.block -->
-</div>
- <!-- /.region -->
-      </aside>  <!-- /#sidebar-first -->
-    
     </div>
 
-          <aside id="sidebar-second" role="complementary">
-        <div class="region region-sidebar-second">
-  <div id="block-block-1" class="block block-block">
-
+    <aside id="sidebar-second" role="complementary">
+      <div class="region region-sidebar-second">
         <h2>Realização</h2>
-    
-  <div class="content">
-    <p>&nbsp;&nbsp;&nbsp; <a href="http://www.utfpr.edu.br/" target="_blank"><img alt="" src="ftsl-drupal_files/rodape-utfpr.png" width="160" height="80"></a></p>
-  </div>
-  
-</div> <!-- /.block -->
-<div id="block-block-2" class="block block-block">
+      </div>
+    </aside>
 
-        <h2>Patrocínio</h2>
-    
-  <div class="content">
-    <p><a href="http://www.sebraepr.com.br/" target="_blank"><img alt="" src="ftsl-drupal_files/sebrae2-alfa.png" width="194" height="99"></a></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-  </div>
-  
-</div> <!-- /.block -->
-<div id="block-block-3" class="block block-block">
+    <div class="clear"></div>
 
-        <h2>Apoio</h2>
-    
-  <div class="content">
-    <p>&nbsp; &nbsp; <a href="http://www.prsucesu.org.br/" target="_blank"><img alt="" src="ftsl-drupal_files/sucesu-pr.png" width="160" height="80"></a>&nbsp;</p>
-<p>&nbsp;</p>
+    <div id="foot">
+      <div class="region region-footer">
+        <div id="block-system-powered-by" class="block block-system">
+          <div class="content">
+            <span>Desenvolvido com <a href="https://www.drupal.org/">Drupal</a></span>
+          </div>
+        </div>
+        <!-- /.block -->
+      </div>
+      <!-- /.region -->
+    </div>
+
   </div>
-  
-</div> <!-- /.block -->
+  {% include footer.html %}
 </div>
- <!-- /.region -->
-      </aside>  <!-- /#sidebar-first -->
-    
-  <div class="clear"></div>
-
-    {% include footer.html %}
-</div>
-  </body>
+</body>
 
 </html>

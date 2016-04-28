@@ -1,26 +1,26 @@
 <header id="header" role="banner">
-    <div id="logo"><a href="/" title="Início"><img src="http://ftsl.org.br/sites/all/themes/ftsl/logo.png"></a></div>    <h1 id="site-title"><a href="/" title="Início">VIII Fórum de Tecnologia em Software Livre</a></h1>
-    <div id="site-description"></div>
-    <div class="clear"></div>
-    <nav id="main-menu" role="navigation">
-      <a class="nav-toggle" href="#">Navegação</a>
-      <div class="menu-navigation-container">
-        <ul class="menu">
-	  <li class="leaf"><a href="/" title="" class="active">INICIO</a></li>
+  <div id="logo"><a href="/" title="Início"><img src="http://ftsl.org.br/sites/all/themes/ftsl/logo.png"></a></div>    <h1 id="site-title"><a href="/" title="Início">VIII Fórum de Tecnologia em Software Livre</a></h1>
+  <div id="site-description"></div>
+  <div class="clear"></div>
+  <nav id="main-menu" role="navigation">
+    <a class="nav-toggle" href="#">Navegação</a>
+    <div class="menu-navigation-container">
+      <ul class="menu">
+        <li class="leaf"><a href="/" title="" class="active">INICIO</a></li>
         {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <li class="leaf"><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-          {% endif %}
+        {% if my_page.title %}
+        <li class="leaf"><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+        {% endif %}
         {% endfor %}
 
-<!-- ver pq existe diferenća entre first e last no class
+        <!-- ver pq existe diferenća entre first e last no class
 <li class="first leaf"><a href="/node/10">CONVIDADOS</a></li>
 <li class="leaf"><a href="/node/11">IMPRENSA</a></li>
 <li class="leaf"><a href="/node/4">PATROCÍNIO</a></li>
 <li class="last leaf"><a href="/node/8">SUBMISSÃO DE TRABALHOS</a></li>
 -->
-	</ul>
-      </div>
-      <div class="clear"></div>
-    </nav><!-- end main-menu -->
+      </ul>
+    </div>
+    <div class="clear"></div>
+  </nav><!-- end main-menu -->
 </header>
