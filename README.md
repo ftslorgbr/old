@@ -5,7 +5,7 @@ Feito usando jekyll 3 (https://jekyllrb.com) rodando sobre ruby 2.1.7.
 
 Ver Gemfile para dependências Ruby, essas dependências podem ser instaladas com o Bundler (http://bundler.io).
 
-Este site está preparado para "jekyll serve" + "grunt serve".
+Este site está preparado para "jekyll serve" ou "jekyll build --watch + grunt serve".
 
 AFAZERES:
 - terminar de converter o leiaute das páginas principais, menu e posts;
