@@ -2,6 +2,7 @@
   "name": "grunt-reload",
   "version": "1.0.0",
   "devDependencies": {
+        "grunt-parallel": "",
         "grunt": "~0.4.3",
         "matchdep": "~0.3.0",
         "grunt-express": "~1.2.1",
