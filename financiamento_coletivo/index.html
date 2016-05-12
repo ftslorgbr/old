@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+<html> 
+<body> 
+
+<div style="text-align:center"> 
+
+
+  <video id="video1" width="420" autoplay>
+    <source src="FTSL_8_-_Financiamento_Coletivo-4iXwz0i-QSw.webm" type="video/mp4">
+    Your browser does not support HTML5 video.
+  </video>
+
+  <br><br>
+
+  <button onclick="playPause()">Play/Pause</button> 
+  <button onclick="makeBig()">Grande</button>
+  <button onclick="makeSmall()">Pequeno</button>
+  <button onclick="makeNormal()">Normal</button>
+       <a href="https://expressodrive.serpro.gov.br/index.php/s/7GjkzaNrI5jE9RQ">Baixar</a>
+
+  <br><br>
+
+<p>Colabore em: <a href="http://www.benfeitoria.com/ftsl2016" target="_blank">FTSL no benfeitoria</a>.</p>
+</div> 
+
+<script> 
+var myVideo = document.getElementById("video1"); 
+
+function playPause() { 
+    if (myVideo.paused) 
+        myVideo.play(); 
+    else 
+        myVideo.pause(); 
+} 
+
+function makeBig() { 
+    myVideo.width = 560; 
+} 
+
+function makeSmall() { 
+    myVideo.width = 320; 
+} 
+
+function makeNormal() { 
+    myVideo.width = 420; 
+} 
+</script> 
+
+</body> 
+</html>
+
