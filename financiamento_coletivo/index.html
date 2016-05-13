@@ -175,15 +175,16 @@
                </style>
                                <div class="tab-pane active" id="campanha">
                   <div class="campanhaWrapper">
+                  <a anchor"video"></a>
                   <h3>8º Fórum de Tecnologia em Software Livre</h3>
                       <p style="  font-family: 'Gotham Medium';">Realizar um dos maiores eventos de software livre do Brasil.</p>
                     <div class="videocampanha">
-                      <iframe width="560" height="315" src="https://www.benfeitoria.com//www.youtube.com/embed/4iXwz0i-QSw" frameborder="0" allowfullscreen></iframe>                    </div>
-                    <div class="socialButtons">
-                      <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-                      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                      <div style="  margin-left: -65px" class="fb-like" data-href="http://beta.benfeitoria.com/ftsl2016"  data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
-                    </div>
+                     <video id="video1" width="559" height="314">
+                         <source src="FTSL_8_-_Financiamento_Coletivo-4iXwz0i-QSw.webm" type="video/mp4">
+                             Your browser does not support HTML5 video.
+                     </video>
+                      <a href="#video" onclick="playPause()">Play/Pause</a> 
+                     </div>
                       <br>
                     <div class="house-of-metas">
                     </div>
@@ -952,7 +953,28 @@ fbq('track', "PageView");</script>
 src="https://www.facebook.com/tr?id=530173373856047&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
-    
+<script> 
+var myVideo = document.getElementById("video1"); 
+
+function playPause() { 
+    if (myVideo.paused) 
+            myVideo.play(); 
+                else 
+                        myVideo.pause(); 
+                        } 
+
+                        function makeBig() { 
+                            myVideo.width = 560; 
+                            } 
+
+                            function makeSmall() { 
+                                myVideo.width = 320; 
+                                } 
+
+                                function makeNormal() { 
+                                    myVideo.width = 420; 
+                                    } 
+                                    </script> 
     
  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5c73877613","applicationID":"5774408","transactionName":"MgYBbBNYXxVSWkVaWgtMIlsVUF4IHElDXF8AABc=","queueTime":0,"applicationTime":4759,"atts":"HkECGltCTBs=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5c73877613","applicationID":"5774408","transactionName":"MgYBbBNYXxVSWkVaWgtMIlsVUF4IHFFeXlA=","queueTime":0,"applicationTime":4845,"atts":"HkECGltCTBs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
