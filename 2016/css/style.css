@@ -1,0 +1,225 @@
+/* Custom Stylesheet */
+
+.panel {
+  width: 100%;
+}
+.purple {
+  height: 1000px;
+  margin-bottom: 400px
+}
+article {
+  min-width: 960px;
+  width: 1140px;
+  /*height: 420px;*/
+  margin: auto auto;
+  background: rgba(255, 255, 255, 0.1);
+}
+.main {
+  height: 642px;
+  background-image: url("../images/ftsl2.png");
+  background-size: contain;
+}
+.darkblue-text {
+  color: #151c27;
+}
+.lg-font {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+}
+.md-font {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+}
+.sd-font {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+.xs-font {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.xxs-font {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+.xxxs-font {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+}
+.font-shadow {
+  text-shadow: 3px 3px 5px #333333;
+}
+.font-shadow-light {
+  text-shadow: 1px 1px 2px #666666;
+}
+.shadow222 {
+  box-shadow: 2px 2px 2px #dddddd
+}
+.blog-title {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+.card-image.fixed {
+  height: 200px;
+  overflow: hidden
+}
+.card-title.shaded {
+  text-shadow: 2px 2px 2px #333333;
+}
+.bg-blured {
+  background-image: url('images/background10.jpg');
+}
+.spacing {
+  padding: 10px
+}
+ul.blog {
+  list-style-type: circle
+}
+ul.blog li {
+  padding-left: 30px
+}
+.bold {
+  font-weight: 600;
+}
+.agenda-title {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #33578F;
+  line-height: 54px;
+  font-weight: 700 !important;
+}
+.agenda-text {
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 100%;
+  color: #33578F;
+  height: 54px;
+  padding: 5px;
+}
+.vertical-text {
+  transform: rotate(90deg);
+  transform-origin: left top 0;
+}
+
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+
+/*
+nav ul a,
+nav .brand-logo {
+  color: #fff;
+}
+p {
+  line-height: 2rem;
+}
+.button-collapse {
+  color: #26a69a;
+}
+.parallax-container {
+  min-height: 580px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255, 255, 255, .9);
+}
+.parallax-container .section {
+  width: 100%;
+}
+@media only screen and (max-width: 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+footer.page-footer {
+  margin: 0;
+}
+.degrade {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b5bdc8+0,828c95+36,28343b+100;Grey+Black+3D */
+
+background: rgb(181,
+189,
+200);
+
+/* Old browsers */
+
+background: -moz-linear-gradient(top,
+rgba(181,
+189,
+200,
+1) 0%,
+rgba(130,
+140,
+149,
+1) 36%,
+rgba(40,
+52,
+59,
+1) 100%);
+
+/* FF3.6-15 */
+
+background: -webkit-linear-gradient(top,
+rgba(181,
+189,
+200,
+1) 0%,
+rgba(130,
+140,
+149,
+1) 36%,
+rgba(40,
+52,
+59,
+1) 100%);
+
+/* Chrome10-25,Safari5.1-6 */
+
+background: linear-gradient(to bottom,
+rgba(181,
+189,
+200,
+1) 0%,
+rgba(130,
+140,
+149,
+1) 36%,
+rgba(40,
+52,
+59,
+1) 100%);
+
+/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8',
+endColorstr='#28343b',
+GradientType=0);
+
+/* IE6-9 */
+
+
+}
+*/
