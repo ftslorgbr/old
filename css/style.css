@@ -1477,6 +1477,7 @@ ol.search-results {
     padding-top: 18px;
     font-size: 20px;
     min-width: 150px;
+    margin-left: 200px;
   }
   #site-description {
     padding-bottom: 18px;
