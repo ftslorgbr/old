@@ -426,7 +426,7 @@ audio {
   position: absolute;
   margin-left: 215px;
   height: 100px;
-  padding-top: 50px;
+  min-width: 500px;
 }
 #site-title a {
   line-height: 100%;
