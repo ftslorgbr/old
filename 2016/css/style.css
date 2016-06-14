@@ -1,5 +1,8 @@
 /* Custom Stylesheet */
 
+nav.top {
+  height: 64px;
+}
 .panel {
   width: 100%;
 }
@@ -22,35 +25,38 @@ article {
 .darkblue-text {
   color: #151c27;
 }
+.bold {
+  font-weight: 700;
+}
 .lg-font {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 80px;
+  font-size: 7vmin;
   font-weight: 700;
 }
 .md-font {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 50px;
-  font-weight: 700;
+  font-size: 5vmin;
+  1font-weight: 400;
 }
-.sd-font {
+.sm-font {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 30px;
-  font-weight: 700;
+  font-size: 3vmin;
+  1font-weight: 400;
 }
 .xs-font {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 24px;
-  font-weight: 400;
+  font-size: 2vmin;
+  1font-weight: 400;
 }
 .xxs-font {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 18px;
-  font-weight: 400;
+  font-size: 1.5vmin;
+  1font-weight: 400;
 }
 .xxxs-font {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 10px;
-  font-weight: 400;
+  font-size: 1vmin;
+  1font-weight: 400;
 }
 .font-shadow {
   text-shadow: 3px 3px 5px #333333;
@@ -104,6 +110,12 @@ ul.blog li {
 .vertical-text {
   transform: rotate(90deg);
   transform-origin: left top 0;
+}
+.lg-padding {
+  padding: 25px
+}
+.md-padding {
+  padding: 15px
 }
 
 /**

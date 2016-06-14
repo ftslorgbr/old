@@ -4,6 +4,7 @@
     $('.button-collapse').sideNav();
     $('.parallax').parallax();
     $("#footerContent").load("footer.html");
+    $("#menu").load("menu.html");
 
   }); // end of document ready
 })(jQuery); // end of jQuery name space
