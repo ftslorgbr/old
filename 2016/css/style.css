@@ -117,6 +117,9 @@ ul.blog li {
 .md-padding {
   padding: 15px
 }
+.sm-margin {
+  margin: 10px
+}
 
 /**
  * Use this file to override Materialize files so you can update
