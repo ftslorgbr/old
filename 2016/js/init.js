@@ -27,7 +27,7 @@ $(function () { // wait for document ready
   });
 
   // get all slides
-  var slides = document.querySelectorAll("section.panel");
+  var slides = document.querySelectorAll("section.panel2");
 
   // create scene for every slide
   for (var i = 0; i < slides.length; i++) {
