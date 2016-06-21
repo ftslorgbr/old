@@ -1,16 +1,15 @@
 (function ($) {
   $(function () {
-
-    $('.button-collapse').sideNav();
+    $("#menu").load("menu.html", function(){
+      $('.button-collapse').sideNav();
+    });
     $('.parallax').parallax();
     $("#footerContent").load("footer.html");
-    $("#menu").load("menu.html");
 
   }); // end of document ready
 })(jQuery); // end of jQuery name space
 
 $(function () { // wait for document ready
-
   /*
   SETA ALTURA DO DIV PARA O TAMANHO DA TELA DISPONIVEL
   console.log(window.innerHeight, window.innerWidth);
@@ -20,6 +19,7 @@ $(function () { // wait for document ready
   });*/
 
   // init
+  
   var controller = new ScrollMagic.Controller({
     globalSceneOptions: {
       triggerHook: 'onLeave'
@@ -38,4 +38,8 @@ $(function () { // wait for document ready
       //.addIndicators() // add indicators (requires plugin)
       .addTo(controller);
   }
+});
+
+$(function () { // wait for document ready
+    $("#menu").load("menu.html");
 });
