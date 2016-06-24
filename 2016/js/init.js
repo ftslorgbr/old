@@ -39,7 +39,3 @@ $(function () { // wait for document ready
       .addTo(controller);
   }
 });
-
-$(function () { // wait for document ready
-    $("#menu").load("menu.html");
-});
