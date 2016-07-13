@@ -5,6 +5,8 @@
     });
     $('.parallax').parallax();
     $("#footerContent").load("footer.html");
+    $("#patrocinio").load("logo.html");
+    $("#patrocinioFooter").load("logo.html");
 
   }); // end of document ready
 })(jQuery); // end of jQuery name space
