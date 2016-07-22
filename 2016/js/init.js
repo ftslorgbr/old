@@ -41,3 +41,15 @@ $(function () { // wait for document ready
       .addTo(controller);
   }
 });
+
+// Apresenta modal de divulgação do Warlock
+$( function() {
+  $( "#warlock-message" ).dialog({
+    modal: true,
+    dialogClass: "ui-dialog-no-titlebar",
+    show: { effect: "fade", duration: 2500 },
+    width: 400,
+    height: 300
+  });
+});
+

@@ -1,5 +1,27 @@
 /* Custom Stylesheet */
 
+/* jquery-ui modal personalization */
+.ui-widget-header {
+	border: none;
+	background: none;
+}
+
+.ui-widget.ui-widget-content {
+	border: none;
+}
+
+.ui-widget-content {
+  background: url("../images/warlock-message.png");
+}
+
+.ui-widget-overlay {
+	background: black;
+	opacity: .8;
+	filter: Alpha(Opacity=30); /* support: IE8 */
+}
+/* jquery end */
+
+
 nav.top {
   height: 64px;
 }
@@ -180,7 +202,8 @@ footer.page-footer {
   margin: 0;
 }
 .degrade {
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b5bdc8+0,828c95+36,28343b+100;Grey+Black+3D */
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b5bdc8+0,828c95+36,28343b+100;Grey+Black+3D */
 
 background: rgb(181,
 189,
@@ -240,8 +263,4 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8',
 endColorstr='#28343b',
 GradientType=0);
 
-/* IE6-9 */
-
-
 }
-*/
