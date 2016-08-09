@@ -10,10 +10,6 @@
 	border: none;
 }
 
-.ui-widget-content {
-  background: url("../images/warlock-message.png");
-}
-
 .ui-widget-overlay {
 	background: black;
 	opacity: .8;
