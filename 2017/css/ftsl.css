@@ -2,6 +2,9 @@
 
 
 /* jquery-ui modal personalization */
+nav ul a {
+  color: #151c27;
+}
 
 .ui-widget-header {
     border: none;

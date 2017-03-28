@@ -18,349 +18,194 @@
     <link href="https://code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css" rel="stylesheet">
     <link href="css/materialize.css" rel="stylesheet" />
     <link href="css/ftsl.css" rel="stylesheet" />
+    <link href="css/social-icons.css" rel="stylesheet" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" />
 </head>
 
 <body>
-    <nav class="top" role="navigation" style="height: 80px; background-color:rgba(55, 120, 180, 1); position: fixed; z-index: 1000">
-        <div id="menu" class="nav-wrapper"></div>
-    </nav>
-
-    <section style="height: 60px"></section>
-
-    <section class="panel white" style="background-image: url('images/background10.jpg')">
-        <div class="col s12 m12 l12" style="height: 500px">
-            <a href="http://ftsl.org.br/node/13" target="_blank"></a>
-        </div>
-    </section>
-
-    <div id="patrocinio"></div>
-
-    <section class="panel blue-grey darken-4">
-        <div style="background-image: url('images/fundo_warlock.png')">
-            <div class="col s12 m12 l12 valign center lg-padding">
-                <span class="xs-font amber-text text-lighten-5" style="display: inline-block;">Participe do Torneio de Robótica Warlock</span>
-                <br>
-
-                <span class="sm-font bold amber-text text-lighten-5 font-shadow-light md-padding" style="display:inline-block">
-          Inscreva seu robô e sua equipe em várias categorias
-        </span>
-                <br>
-
-                <div class="md-padding">
-                    <a href=" http://bit.ly/29D88p5" class="btn red font-shadow" target="_blank">Inscrição Torneio de Robótica</a>
-                </div>
-
-                <span class="sm-font bold amber-text text-lighten-5 font-shadow-light md-padding" style="display:inline-block">
-          Confira outros torneios amistosos:
-        </span>
-
-                <div class="col s6 center ">
-                    <a href="https://www.facebook.com/media/set/?set=oa.476865872523662&type=1" target="_blank ">
-                        <img src="images/logo-facebook.png ">
-                        <span class="sm-font white-text ">amistoso TechPUC</span>
-                    </a>
-                </div>
-
-                <div class="col s6 center ">
-                    <a href="https://www.facebook.com/media/set/?set=oa.463496620527254&type=1" target="_blank ">
-                        <img src="images/logo-facebook.png ">
-                        <span class="sm-font white-text ">amistoso Faculdade das Indústrias</span>
-                    </a>
-                </div>
+    <div class="navbar-fixed">
+        <nav>
+            <div class="nav-wrapper white">
+                <div id="menu" class="nav-wrapper"></div>
             </div>
-        </div>
-    </section>
-
-    <section class="panel blue-grey darken-4">
-        <div style="background-color: #6c8722 !important">
-            <div class="col s12 m12 l12 valign center lg-padding">
-                <div class="md-padding"></div>
-
-                <span class="xs-font amber-text text-lighten-5" style="display: inline-block;">Junte-se a 3000+ participantes</span>
-
-                <br>
-
-                <span class="md-font bold amber-text text-lighten-5 font-shadow-light " style="display:inline-block;">
-          no maior e mais importante evento de Software Livre de Curitiba e Região
-        </span>
-
-                <div class="md-padding">
-                    <a href="http://ftsl.org.br/sobre" target="_blank" class="btn teal darken-3 xs-font">Sobre o evento</a>
-                </div>
-
-                <div class="md-padding"></div>
-            </div>
-        </div>
-    </section>
-
-    <section class="panel" style="background-image: url( 'images/background10.jpg') ">
-        <div class="lg-padding" style=" background-color: #5a7194; ">
-            <div class="row center ">
-                <div class="col s12">
-                    <span class="md-font bold amber-text text-lighten-5">Não perca nada!</span>
-                </div>
-
-                <div class="col s12">
-                    <span class="sm-font amber-text text-lighten-5 font-shadow-light " style="display:inline-block;">
-            Fique por dentro das novidades da programação do evento pelo site, ou através das redes sociais
-          </span>
-                </div>
-
-                <div class="row "></div>
-
-                <div class="col s6 center ">
-                    <a href="http://www.facebook.com/forumslcuritiba " target="_blank ">
-                        <img src="images/logo-facebook.png ">
-                        <span class="sm-font white-text ">forumslcuritiba</span>
-                    </a>
-                </div>
-
-                <div class="col s6 center ">
-                    <a href="http://www.twitter.com/forumslcuritiba " target="_blank ">
-                        <img src="images/logo-twitter.png ">
-                        <span class="sm-font white-text ">forumslcuritiba</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="convidados" class="panel grey darken-4">
-        <div class="grey lighten-4" style="">
-            <div class="row ">
-                <div class="col s12 sm-font blue-grey-text ">
-                    <span style="display: inline-block; padding:10px ">Convidados</span>
-                </div>
-            </div>
-
-            <div class="row" style="padding: 0 20px; margin-bottom: 0;">
-                <div class="col s12 m6 l3">
-                    <div class="row white shadow222 ">
-                        <div class="center " style="background: #ededed ">
-                            <a href="palestrantes.html#mazoni">
-                                <img class="responsive-img center" src="images/p1.png " style="padding: 30px; ">
-                            </a>
-                        </div>
-
-                        <a href="palestrantes.html#mazoni">
-                            <span class="blue darken-2 white-text center " style="display: inline-block; padding:10px;margin:0; width:100% ">
-                Marcos Vinícius Ferreira Mazoni
-              </span>
-                        </a>
-
-                        <p class="grey-text text-darken-2 " style="padding: 10px ">
-                            É formado em Administração de Empresas, pós-graduado em Tecnologia da Informação pela Fundação Getúlio Vargas e em Gestão Empresarial pela Universidade Federal do Rio Grande do Sul. Foi presidente da Procergs, Celepar e Serpro, diretor-técnico e administrativo na Procempa e 20 anos de atuação na Companhia Riograndense de Telecomunicações.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col s12 m6 l3">
-                    <div class="row white shadow222 ">
-                        <div class="center" style="background: #ededed">
-                            <a href="palestrantes.html#eriberto">
-                                <img class="responsive-img center" src="images/p2.png" style="padding: 30px;">
-                            </a>
-                        </div>
-                        <a href="palestrantes.html#eriberto">
-                            <span class="amber darken-2 white-text center " style="display: inline-block; padding:10px;margin:0; width:100% ">
-                João Eriberto Mota Filho
-              </span>
-                        </a>
-                        <p class="grey-text text-darken-2 " style="padding: 10px ">
-                            Oficial de Cavalaria do Exército Brasileiro. Gerente de Rede e de Segurança em Rede no Exército. Professor da Pós-graduação em Perícia Digital na UCB e autor de livros na área como Linux & Seus Servidores, Descobrindo o Linux e Análise de tráfego em redes TCP/IP. É desenvolvedor Debian e membro do time de Forense do Debian.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col s12 m6 l3">
-                    <div class="row white shadow222 ">
-                        <div class="center " style="background: #ededed ">
-                            <a href="palestrantes.html#alessandro">
-                                <img class="responsive-img center" src="images/p3.png " style="padding: 30px;">
-                            </a>
-                        </div>
-
-                        <a href="palestrantes.html#alessandro">
-                            <span class="green darken-2 white-text center " style="display: inline-block; padding:10px;margin:0; width:100% ">
-                Alessandro de Oliveira Faria
-              </span>
-                        </a>
-
-                        <p class="grey-text text-darken-2 " style="padding: 10px">
-                            Sócio-fundador da empresa NETi TECNOLOGIA, especializada em soluções de Reconhecimento Facial, Consultor Biométrico, Realidade Aumentada, Visão Computacional, Neuro-tecnologia e Programação multi-nuclear com GPU. Atua na área desde 86 e tem mais de 100 artigos publicados no Viva O Linux. É mantenedor da biblioteca opencv, embaixador e openSUSE Member.
-                        </p>
-                    </div>
-                </div>
-                <div class="col s12 m6 l3">
-                    <div class="row white shadow222 ">
-                        <div class="center " style="background: #ededed">
-                            <a href="palestrantes.html#er">
-                                <img class="responsive-img center" src="images/p4.png " style="padding: 30px;">
-                            </a>
-                        </div>
-
-                        <a href="palestrantes.html#er">
-                            <span class="red darken-2 white-text center " style="display: inline-block; padding:10px;margin:0; width:100%">
-                Er Galvão Abbott
-              </span>
-                        </a>
-
-                        <p class="grey-text text-darken-2 " style="padding: 10px">
-                            Presidente da ABRAPHP e Diretor da PHP Conference Brasil. Atua como Zend Framework Evangelist para o ZTeam e contribui na tradução da documentação oficial. Mais de 20 anos desenvolvendo interfaces web, 15 com PHP e 7 com Zend. Palestrante nacional e internacional e instrutor de cursos. Fundador líder do GU PHPBR e membro-fundador do GU PHPRS.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row" style="padding: 0 20px; margin-bottom: 0">
-                <div class="col s12 m6 l3">
-                    <div class="row white shadow222">
-                        <div class="center" style="background: #ededed">
-                            <a href="palestrantes.html#julio">
-                                <img src="images/p5.png " class="center " style="padding: 30px">
-                            </a>
-                        </div>
-
-                        <a href="palestrantes.html#julio">
-                            <span class="brown darken-2 white-text center " style="display: inline-block; padding:10px;margin:0; width:100%">
-                Julio Cezar Neves
-              </span>
-                        </a>
-
-                        <p class="grey-text text-darken-2 " style="padding: 10px ">
-                            Engenheiro de produção da UFRJ, pós-graduado em informática pelo IBAM, Analista de Suporte de Sistemas desde 1969. Trabalha com Unix desde 1980, quando fez parte da equipe que desenvolveu o SOX, sistema operacional Unix-Like, da Cobra Computadores. É autor dos livros "Programação Shell – Linux" que está em sua 10ª edição e do recém lançado "Bombando o Shell", escreve regularmente para a Linux Magazine, Libre Office Magazine e Espírito Livre, além de diversos sites técnicos de Software Livre.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col s12 m6 l3 ">
-                    <div class="row white shadow222 ">
-                        <div class="center " style="background: #ededed ">
-                            <a href="palestrantes.html#deivi">
-                                <img src="images/p6.png " class="center" style="padding: 30px ">
-                            </a>
-                        </div>
-
-                        <a href="palestrantes.html#deivi">
-                            <span class="teal darken-2 white-text center " style="display: inline-block; padding:10px;margin:0; width:100% ">
-                Deivi Lopes Kuhn
-              </span>
-                        </a>
-
-                        <p class="grey-text text-darken-2 " style="padding: 10px ">
-                            Economista formado pela Universidade Federal do Rio Grande do Sul, funcionário do Serpro aonde atuou como Administrador de Redes Locais, Líder de Projetos de desenvolvimento e Assessor de Diretoria. Participa de comunidades de Software Livre como tradutor e no apoio a realização de eventos como o FISL. Atualmente atua como Coordenador Estratégico de Comunicação do SERPRO e Secretário Executivo do Comitê Técnico de Implementação de Software Livre do governo Federal - CISL
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col s12 m6 l3 ">
-                    <div class="row white shadow222 ">
-                        <div class="center " style="background: #ededed ">
-                            <a href="palestrantes.html#flavio">
-                                <img src="images/p7.png " class="center " style="padding: 30px ">
-                            </a>
-                        </div>
-
-                        <a href="palestrantes.html#flavio">
-                            <span class="deep-purple darken-2 white-text center " style="display: inline-block; padding:10px;margin:0; width:100% ">
-                Flavio Gomes da Silva Lisboa
-              </span>
-                        </a>
-
-                        <p class="grey-text text-darken-2 " style="padding: 10px ">
-                            Bacharel em Ciência da Computação, pós-graduado em Aplicações Corporativas pela UTFPR. Iniciou em empresas privadas, foi funcionário no BB e atualmente é funcionário do Serpro. Membro do time oficial de tradução do Zend Framework (Z. F.), é autor dos livros: Z. F. Desenvolvendo em PHP 5 Orientado a Objetos com MVC, Z. F. Componentes Poderosos para PHP e Criando Aplicações PHP com Zend e Dojo. Associado da ABRAPHP, Zend PHP Certified Engineer, Z. F. Certified Engineer, Z. F. 2 Certified Architect e contribuidor oficial do Tine 2.0.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col s12 m6 l3 ">
-                    <div class="row white shadow222 ">
-                        <div class="center" style="background: #ededed ">
-                            <a href="palestrantes.html#wellton">
-                                <img src="images/p8.png " class="center " style="padding: 30px ">
-                            </a>
-                        </div>
-
-                        <a href="palestrantes.html#wellton">
-                            <span class="lime darken-3 white-text center " style="display: inline-block; padding:10px;margin:0; width:100% ">
-                Wellton Costa de Oliveira
-              </span>
-                        </a>
-
-                        <p class="grey-text text-darken-2 " style="padding: 10px ">
-                            Professor de Sistemas Operacionais e Desenvolvimento Web na UTFPR Francisco Beltrão; Pesquisador de Inteligência Artificial aplicada a Web; Mantenedor do Grupo de Estudos em Programação em Drones; Mestre em Engenharia Elétrica e Informática Industrial pela UTFPR Curitiba; Entusiasta Debian, Internet das Coisas, Replicant, linux-libre e Libreboot. Já palestrou em eventos como FISL, FLISOL, Debian Day, Arduino Day, Mini-debconf e ERSL tendo 12 anos de estudos em software livre.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="noticias" class="panel" style="background-color: rgb(41, 42, 51)">
-        <div class="blue-grey lighten-4" style="1height: 520px;">
+        </nav>
+    </div>
+    <section class="panel xs-font grey-text text-lighten-3 hide" style="padding: 10px 0; height: 50px; background-color: #536480; ">
+        <div class="container">
             <div class="row">
-                <div class="col s12 sm-font blue-grey-text text-darken-2 ">
-                    <span style="display: inline-block; padding:10px ">Notícias</span>
+            <div class="col s6">IX FÓRUM DE TECNOLOGIA EM SOFTWARE LIVRE</div>
+            <div class="col s6 right" style="text-align: right"><i class="material-icons tiny">room</i><span class="xxs-font">Av. Sete de setembro, 3165</span></div>
+        </div>
+    </section>
+        <!--<nav class="top" role="navigation" style="padding-top: 5px; height: 80px; background-color:rgba(128, 128, 128, 1); position: fixed; z-index: 1000">
+            <div id="menu" class="nav-wrapper"></div>
+        </nav>-->
+    <!--<section style="height: 60px"></section>-->
+
+    <section class="panel grey darken-4 valign-wrapper" style="height: 360px; margin-top: 0px; background-image: url('images/background.jpg'); background-position: 180px ">
+        <div class="container">
+            <div class="row">
+                <div class="col s6 center-align">
+                    <div class="md-font flow-text blue-text text-lighten-5 valign">IX FÓRUM DE TECNOLOGIA EM SOFTWARE LIVRE<p>de 27 a 29 de setembro</div>
+                    <div class="center-align"><a class="waves-effect orange waves-light btn">prepare-se</a></div>
+                </div>
+                <div class="col s6 right-align">
+                    <div class="md-font white-text">
+                        <div id="count"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="panel grey lighten-4 valign-wrapper">
+        <div class="container" style="padding: 30px 10px">
+            <div class="row">
+                <div class="col s4">
+                    <div class="row">
+                        <div class="col s12 center-align">
+                            <div class="grey-text text-darken-3"><i class="material-icons medium blue-text text-darken-4">keyboard_voice</i></div>
+                            <span class="sm-font center-align grey-text text-darken-3">Palestras</class><p>
+                        </div>
+                        <div class="col s12  grey-text text-darken-3">
+                            realizadas por acadêmicos, estudantes, profissionais do mercado, empresas, políticos e pensadores com o intuito de aprofundar os conhecimentos científicos, técnicos, mercadológicos e sociais do Software Livre e da Liberdade do Conhecimento.
+                        </div>
+                    </div>
+                </div>
+                <div class="col s4">
+                    <div class="row">
+                        <div class="col s12 center-align">
+                            <div class="grey-text text-darken-3"><i class="material-icons medium blue-text text-darken-4">watch_later</i></div>
+                            <span class="sm-font center-align grey-text text-darken-3">minicursos</class><p>
+                        </div>
+                        <div class="col s12  grey-text text-darken-3">
+                            ministrados por profissionais a fim de transmitir conhecimentos práticos de um determinado assunto por meio de treinamentos e capacitação.
+                        </div>
+                    </div>
+                </div>
+                <div class="col s4">
+                    <div class="row">
+                        <div class="col s12 center-align">
+                            <div class="grey-text text-darken-3"><i class="material-icons medium blue-text text-darken-4">forum</i></div>
+                            <span class="sm-font center-align grey-text text-darken-3">Encontro de comunidades</class><p>
+                        </div>
+                        <div class="col s12  grey-text text-darken-3">
+                            comunidades em torno de ferramentas e tecnologias livre realizam encontros técnicos durante o evento..
+                        </div>
+                    </div>
                 </div>
             </div>
 
-            <div class="row" style="padding: 0 20px; margin-bottom: 0">
-                <div class="col s12 m6 l4 ">
-                    <div class="card medium ">
-                        <div class="card-image fixed ">
-                            <img src="images/artigos.jpg ">
-                            <span class="card-title shaded ">
-                <h5>Submissão de Trabalhos</h5>
-              </span>
+            <div class="row hide">
+                <div class="col s4">
+                    <div class="row">
+                        <div class="col s12 center-align">
+                            <div class="grey-text text-darken-3"><i class="material-icons medium blue-text text-darken-4">brightness_1</i></div>
+                            <span class="sm-font center-align grey-text text-darken-3">Mesas Redondas / Painéis</class><p>
                         </div>
-
-                        <div class="card-content ">
-                            <p>A data limite para a submissão de trabalhos para o FTSL 2016 é 15/07/2016. Participe!</p>
+                        <div class="col s12  grey-text text-darken-3">
+                            contará com a participação de profissionais e estudiosos dos temas,  qualificados e capacitados para conduzir as discussões de forma a incentivar o pensamento crítico dos participantes, visando a estimulação do debate sobre temas acadêmicos, tecnológicos e sociais relacionados ao Software Livre e a Liberdade do Conhecimento.
                         </div>
+                    </div>
+                </div>
+                <div class="col s4">
+                    <div class="row">
+                        <div class="col s12 center-align">
+                            <div class="grey-text text-darken-3"><i class="material-icons medium blue-text text-darken-4">memory</i></div>
+                            <span class="sm-font center-align grey-text text-darken-3">Torneio de Robótica</class><p>
+                        </div>
+                        <div class="col s12  grey-text text-darken-3">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col s4">
+                    <div class="row">
+                        <div class="col s12 center-align">
+                            <div class="grey-text text-darken-3"><i class="material-icons medium blue-text text-darken-4">forum</i></div>
+                            <span class="sm-font center-align grey-text text-darken-3">Encontro de comunidades</class><p>
+                        </div>
+                        <div class="col s12  grey-text text-darken-3">
+                            comunidades em torno de ferramentas e tecnologias livre realizam encontros técnicos durante o evento..
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-                        <div class="card-action ">
-                            <a href="http://ftsl.org.br/registersform">Envie<i class="material-icons right ">forward</i></a>
+
+    <section class="panel indigo darken-3" >
+        <div class="container valign-wrapper" style="height: 300px">
+            <div class="center-align">
+            <span class="xs-font white-text text-darken-4">Junte-se a 3000+ participantes</span><br>
+            <span class="md-font amber-text text-darken-1"> no maior e mais importante evento de Software<br> Livre de Curitiba e Região</span><br><br>
+            <a class="btn amber darken-4">sobre o evento</a>
+            </div>
+    </section>
+
+    <section class="panel blue-grey darken-4" style="">
+        <div class="container" style="padding: 30px 10px">
+            <div class="row">
+                <div class="col s12 m6 l4">
+                    <div class="card large">
+                        <div class="card-image">
+                        <img src="images/financiamento.png" style="max-height: 200px">
+                        
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title blue-text text-darken-4 xs-font">Patrocínio</span>
+                            <p>Considerado o mais importante evento de Software Livre de Curitiba e Região e o maior evento gratuito em Tecnologia de Informação do Brasil. Entre em contato e conheça os planos de patrocínio para 2017.</p>
+                        </div>
+                        <div class="card-action">
+                        <a href="#">saiba mais</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col s12 m6 l4 ">
-                    <div class="card medium ">
-                        <div class="card-image fixed ">
-                            <img src="images/ftsl.png ">
-                            <span class="card-title shaded ">
-                <h5>Divulgue</h5>
-              </span>
+                <div class="col s12 m6 l4">
+                    <div class="card large">
+                        <div class="card-image">
+                            <img src="images/artigos.jpg" style="max-height: 200px">
                         </div>
-
-                        <div class="card-content ">
-                            <p>Esta disponível o cartaz para divulgação do ftsl 2016. Faça o <a href="http://ftsl.org.br/sites/default/files/Cartaz%20FTSL%202016.pdf">download</a> e ajude a divulgar.</p>
+                        <div class="card-content">
+                            <span class="card-title blue-text text-darken-4 xs-font">Submissão de Trabalhos</span>
+                            <p>Faça a submissão do seu trabalho no FTSL e participe como palestrante.</p>
                         </div>
-
-                        <div class="card-action ">
-                            <a href="http://ftsl.org.br/sites/default/files/Cartaz%20FTSL%202016.pdf">Divulgue<i class="material-icons right ">forward</i></a>
+                        <div class="card-action">
+                            <a href="#">saiba mais</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col s12 m6 l4 ">
-                    <div class="card medium ">
-                        <div class="card-image fixed ">
-                            <img src="images/agile_brazil.png ">
-                            <span class="card-title shaded ">
-                <h5>Agile Brazil</h5>
-              </span>
+                 <div class="col s12 m6 l4">
+                    <div class="card large">
+                        <div class="card-image">
+                            <img src="images/pexels-photo-327538.jpeg" style="max-height: 200px">
                         </div>
-
-                        <div class="card-content ">
-                            <p>Prepare-se para uma edição especial, este ano com o tema de volta às raízes.</p>
+                        <div class="card-content">
+                            <span class="card-title blue-text text-darken-4 xs-font">Voluntariado</span>
+                            <p>Existem várias formas de contribuir. Se você esta disposto a ajudar a fazer um evento ainda melhor, entre em contato. </p>
                         </div>
-
-                        <div class="card-action ">
-                            <a href="http://ftsl.org.br/node/12">acesse<i class="material-icons right ">forward</i></a>
+                        <div class="card-action">
+                            <a href="#">saiba mais</a>
                         </div>
                     </div>
                 </div>
+                <div class="col s12 m6 l4">
+                    <div class="card large">
+                        <div class="card-image">
+                            <img src="images/ftsl.png" style="max-height: 200px">
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title blue-text text-darken-4 xs-font">Divulgação</span>
+                            <p>O material gráfico para divulgação do ftsl 2017 estará disponível em breve. Faça o download e ajude a divulgar. </p>
+                        </div>
+                        <div class="card-action">
+                            <a href="#">saiba mais</a>
+                        </div>
+                    </div>
+                </div>                
             </div>
         </div>
     </section>
