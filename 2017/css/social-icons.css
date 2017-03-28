@@ -38,7 +38,7 @@ h6 {
     margin: 0 auto;
 }
 .social-icon {
-    color: #fff;
+    color: rgba(255, 255, 255, .1);
 }
 ul.social-icons {
     margin-top: 0px;
@@ -49,7 +49,7 @@ ul.social-icons {
     height: 100px;
 }
 .social-icons a {
-    color: #039be5;
+    color: #f9a825;
     text-decoration: none;
 }
 .fa-facebook {
@@ -59,11 +59,11 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #ffffff;
+    background-color: #212121;
 }
 .fa-facebook:hover {
     background-color: #3d5b99;
-    color: #fff;    
+    color: #fff;
 }
 .fa-twitter {
     padding:10px 12px;
@@ -72,7 +72,7 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #ffffff;
+    background-color: #212121;
 }
 .fa-twitter:hover {
     background-color: #00aced;
@@ -85,7 +85,7 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #ffffff;
+    background-color: #212121;
 }
 .fa-rss:hover {
     background-color: #eb8231;
@@ -98,7 +98,7 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #ffffff;
+    background-color: #212121;
 }
 .fa-youtube:hover {
     background-color: #e64a41;
@@ -111,7 +111,7 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #ffffff;
+    background-color: #212121;
 }
 .fa-linkedin:hover {
     background-color: #0073a4;
@@ -124,7 +124,7 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #ffffff;
+    background-color: #212121;
 }
 .fa-google-plus:hover {
     background-color: #e25714;
@@ -138,7 +138,7 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #ffffff;
+    background-color: #212121;
 }
 .fa-envelope:hover {
     background-color: #ff9933;
