@@ -49,7 +49,7 @@ ul.social-icons {
     height: 100px;
 }
 .social-icons a {
-    color: #f9a825;
+    color: #aaa;
     text-decoration: none;
 }
 .fa-facebook {
@@ -141,6 +141,6 @@ ul.social-icons {
     background-color: #212121;
 }
 .fa-envelope:hover {
-    background-color: #ff9933;
+    background-color: #89b051;
     color: #fff;
 }

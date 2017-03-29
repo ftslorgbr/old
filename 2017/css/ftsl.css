@@ -2,6 +2,15 @@
 
 
 /* jquery-ui modal personalization */
+.footer-links{
+    color: #aaa;
+}
+.footer-links:hover{
+    color: #ff9933;
+}
+.footer-links-title{
+    color: #1976D2;
+}
 nav ul a {
   color: #151c27;
 }
