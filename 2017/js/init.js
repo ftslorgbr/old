@@ -7,7 +7,15 @@
         $("#footerContent").load("footer.html");
         $("#patrocinio").load("logo.html");
         $("#patrocinioFooter").load("logo.html");
-        countdown(new Date("Sep 27, 2017 08:00:00").getTime());
+        var dayD = new Date("Sep 27, 2017 08:00:00");
+        var diff = dayD.getTime() / 1000 - (new Date()).getTime() / 1000;
+        var clock = $('#count').FlipClock(diff, {
+          countdown : true,
+          clockFace: 'DailyCounter',
+          language : 'pt',
+          showSeconds: false
+        });
+        //countdown(new Date("Sep 27, 2017 08:00:00").getTime());
 
     }); // end of document ready
 })(jQuery); // end of jQuery name space

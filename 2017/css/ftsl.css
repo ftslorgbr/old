@@ -145,9 +145,19 @@ ul.blog li {
 .lg-padding {
     padding: 25px
 }
+
+.lg-padding-v {
+    padding: 25px 0
+}
+
 .md-padding {
     padding: 15px
 }
+
+.md-padding-v {
+    padding: 15px 0
+}
+
 .lg-margin {
     margin: 25px
 }
@@ -158,6 +168,28 @@ ul.blog li {
     margin: 10px
 }
 
+.countdown {
+    background-image: url('../images/bg-countdown.png');
+    border-right: 1px solid black;
+    border-left: 1px solid #888;
+    width: 100px;
+    text-align: center;
+    height: 90px;
+    line-height: 90px;
+}
+
+.flip-clock-wrapper{
+    width: 555px;
+    margin: 10px auto;
+    transform: scale(.8, .8);
+}
+
+.flip-clock-label {
+    color: #ccc !important;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2vmin;
+    font-weight: bold
+ }
 /**
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
@@ -210,65 +242,3 @@ footer.page-footer {
   margin: 0;
 }
 .degrade {
-
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b5bdc8+0,828c95+36,28343b+100;Grey+Black+3D */
-
-background: rgb(181,
-189,
-200);
-
-/* Old browsers */
-
-background: -moz-linear-gradient(top,
-rgba(181,
-189,
-200,
-1) 0%,
-rgba(130,
-140,
-149,
-1) 36%,
-rgba(40,
-52,
-59,
-1) 100%);
-
-/* FF3.6-15 */
-
-background: -webkit-linear-gradient(top,
-rgba(181,
-189,
-200,
-1) 0%,
-rgba(130,
-140,
-149,
-1) 36%,
-rgba(40,
-52,
-59,
-1) 100%);
-
-/* Chrome10-25,Safari5.1-6 */
-
-background: linear-gradient(to bottom,
-rgba(181,
-189,
-200,
-1) 0%,
-rgba(130,
-140,
-149,
-1) 36%,
-rgba(40,
-52,
-59,
-1) 100%);
-
-/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-
-filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8',
-endColorstr='#28343b',
-GradientType=0);
-
-}

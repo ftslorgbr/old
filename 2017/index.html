@@ -17,6 +17,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <link href="https://code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css" rel="stylesheet">
     <link href="css/materialize.css" rel="stylesheet" />
+    <link href="css/flipclock.css" rel="stylesheet" />
     <link href="css/ftsl.css" rel="stylesheet" />
     <link href="css/social-icons.css" rel="stylesheet" />
     <link href="css/font-awesome.min.css" rel="stylesheet" />
@@ -30,17 +31,6 @@
             </div>
         </nav>
     </div>
-    <section class="panel xs-font grey-text text-lighten-3 hide" style="padding: 10px 0; height: 50px; background-color: #536480; ">
-        <div class="container">
-            <div class="row">
-            <div class="col s6">IX FÓRUM DE TECNOLOGIA EM SOFTWARE LIVRE</div>
-            <div class="col s6 right" style="text-align: right"><i class="material-icons tiny">room</i><span class="xxs-font">Av. Sete de setembro, 3165</span></div>
-        </div>
-    </section>
-        <!--<nav class="top" role="navigation" style="padding-top: 5px; height: 80px; background-color:rgba(128, 128, 128, 1); position: fixed; z-index: 1000">
-            <div id="menu" class="nav-wrapper"></div>
-        </nav>-->
-    <!--<section style="height: 60px"></section>-->
 
     <section class="panel grey darken-4 valign-wrapper" style="height: 360px; margin-top: 0px; background-image: url('images/background.jpg'); background-position: 180px ">
         <div class="container">
@@ -49,9 +39,11 @@
                     <div class="md-font flow-text blue-text text-lighten-5 valign">IX FÓRUM DE TECNOLOGIA EM SOFTWARE LIVRE<p>de 27 a 29 de setembro</div>
                     <div class="center-align"><a class="waves-effect orange waves-light btn">prepare-se</a></div>
                 </div>
-                <div class="col s6 right-align">
-                    <div class="md-font white-text">
+                <div class="col s6 center-align">
+                    <div class="md-font white-text valign" style="margin: 0">
+                        <p>
                         <div id="count"></div>
+                        </p>
                     </div>
                 </div>
             </div>
@@ -144,7 +136,8 @@
             </div>
     </section>
 
-    <section class="panel blue-grey darken-4">
+    
+    <section class="panel blue-grey darken-4" id="noticias" >
         <div class="container" style="padding: 30px 10px">
             <div class="row">
                 <div class="col s12 m6 l4">
@@ -227,6 +220,7 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
     <script src="js/materialize.js "></script>
+    <script src="js/flipclock.js "></script>
     <script src="js/init.js "></script>
 </body>
 
