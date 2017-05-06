@@ -2,6 +2,9 @@
 
 
 /* jquery-ui modal personalization */
+nav .button-collapse {
+    color: #0D47A1
+}
 .footer-links{
     color: #aaa;
 }
