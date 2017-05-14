@@ -1,10 +1,7 @@
 (function ($) {
     $(function () {
-        $("#menu").load("menu.html", function () {
-            $('.button-collapse').sideNav();
-        });
+        $('.button-collapse').sideNav();
         $('.parallax').parallax();
-        $("#footerContent").load("footer.html");
         $("#patrocinio").load("logo.html");
         $("#patrocinioFooter").load("logo.html");
         var dayD = new Date("Sep 27, 2017 08:00:00");

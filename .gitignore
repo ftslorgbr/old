@@ -1,1 +1,4 @@
 /.project
+/_site/*
+.jekyll-metadata
+.sass-cache/
