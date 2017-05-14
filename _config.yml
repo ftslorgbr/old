@@ -14,12 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: IX Fórum de Tecnologia em Software Livre
-description: > # this means to ignore newlines until "baseurl:"
-O maior e mais importante evento de Software Livre de Curitiba e Região.
+description: "O maior e mais importante evento de Software Livre de Curitiba e Região."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ftsl.org.br" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: forumslcuritiba
-github_username:  ftslorgbr
+twitter_username: "forumslcuritiba"
+github_username:  "ftslorgbr"
 
 # Build settings
 markdown: kramdown
