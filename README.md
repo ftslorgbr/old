@@ -10,3 +10,5 @@ Colabore com código do site, enviando correções, reportando erros (issues).
 * execute o jekyll com "bundle exec jekyll serve"
 * acesse http://localhost:4000
 
+# No meu debian 8 e Ubuntu 16.04 preferi (pois deu erro de permissão nas gems) instalar uma versao mais atualizada do ruby e usei o seguinte endereço como base:
+https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-debian-8
