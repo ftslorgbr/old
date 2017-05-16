@@ -8,11 +8,15 @@ Para este ano, estima-se a inscrição de mais de 3.500 pessoas, ampliando o foc
 
 Baixe o [plano de patrocínio](http://ftsl.org.br/projeto-patrocinio-ftsl-2017.pdf), para conhecer as suas modalidades.
 
+&nbsp;
+
 Para mais informações contate: 
 
  Antonio Carlos Tiboni 
   
   (041) 3593-8275 / 99900-3340 
+
+&nbsp;
 
   Alisson Coelho de Morais 
   
