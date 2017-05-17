@@ -12,7 +12,7 @@ Colabore com código do site, enviando correções, reportando erros (issues).
 
 # Executando localmente com docker ([fonte](https://github.com/jekyll/docker/wiki/Usage:-Running))
 ```sh
-  docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll \
+docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll \
   -it -p 127.0.0.1:4000:4000 jekyll/jekyll jekyll serve
 ```
 
