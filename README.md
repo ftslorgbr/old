@@ -1,13 +1,18 @@
-# ftslorgbr.github.io
+# Fórum de Tecnologia em Software Livre - FTSL
 Parte estática do Site do FTSL - Fórum de Tecnologia em Software Livre (http://ftsl.org.br)
 
-Colabore com código do site, enviando correções, reportando erros (issues).
+Colabore com código do site:
+* enviando correções para as [Issues](https://github.com/ftslorgbr/ftslorgbr.github.io/issues);
+* reportando erros encontrados no site em [Issues](https://github.com/ftslorgbr/ftslorgbr.github.io/issues); e
+* testando a responsividade e desempenho em diferentes dispositivos e reportando os erros nas [Issues](https://github.com/ftslorgbr/ftslorgbr.github.io/issues) desse repositório.
 
 # Para executar localmente
-* instale o jekyll (https://jekyllrb.com/docs/installation) com "gem install jekyll bundler"
-* navegue para o diretorio local do repositorio, por exemplo "cd ftslorgbr.github.io"
-* baixe as gems utilizadas no projeto com 'bundle install'
-* execute o jekyll com "bundle exec jekyll serve"
+
+O site foi feito usando o [Jekyll](https://jekyllrb.com), que é um gerador de sites estáticos.
+
+* "gem install jekyll bundler" para instalar o jekyll, [mais informações](https://jekyllrb.com/docs/installation);
+* dentro da pasta que contém o código do site (por exemplo ftslorgbr.github.io) execute o comando 'bundle install' para baixar as gems utilizadas no projeto;
+* depois "bundle exec jekyll serve" para executar o jekyll (gerar e servir localmente o site) 
 * acesse http://localhost:4000
 
 # Executando localmente com docker ([fonte](https://github.com/jekyll/docker/wiki/Usage:-Running))
