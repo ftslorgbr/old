@@ -6,6 +6,12 @@ Colabore com código do site:
 * reportando erros encontrados no site em [Issues](https://github.com/ftslorgbr/ftslorgbr.github.io/issues); e
 * testando a responsividade e desempenho em diferentes dispositivos e reportando os erros nas [Issues](https://github.com/ftslorgbr/ftslorgbr.github.io/issues) desse repositório.
 
+Tem dificuldades para trabalhar com o github?
+* [Guia oficial (inglês)](https://guides.github.com)
+* [Guia prático (português)](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [Formato Markdown (inglês)](https://guides.github.com/features/mastering-markdown)
+* [Formato Markdown (português)](https://github.com/joelwallis/aprendendo-markdown)
+
 # Para executar localmente
 
 O site foi feito usando o [Jekyll](https://jekyllrb.com), que é um gerador de sites estáticos.
