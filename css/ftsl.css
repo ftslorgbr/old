@@ -193,6 +193,13 @@ ul.blog li {
     font-size: 2vmin;
     font-weight: bold
  }
+ ul.topicos{
+    list-style-type: disc;
+    padding-left: 50px;
+ }
+ ul.topicos li{
+    list-style-type: disc;
+ }
 /**
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
