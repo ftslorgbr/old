@@ -13,7 +13,7 @@ A seção Páginas Amigas é um espaço para a publicação das logomarcas dos s
 <li class="topicos">Explicitar qual a URL ou endereço de e-mail a imagem deve apontar;</li>
 <li class="topicos">O formato do arquivo pode ser JPG, PNG, GIF ou SVG; </li>
 <li class="topicos">A página amiga deve colocar em sua página inicial alguma das imagens que estão disponíveis</li>
-<li class="topicos">em [banners]({{site.baseurl}}/banners.html) com link para [http://ftsl.org.br](http://ftsl.org.br) e se precisar de algum tamanho diferente, entrar em contato.</li>
+<li class="topicos">em [banners]({{site.baseurl}}/banners.html) com link para http://ftsl.org.br e se precisar de algum tamanho diferente, entrar em contato.</li>
 </ul>
 
 Importante: a organização do IX FTSL espera que a divulgação se mantenha antes, durante e algumas semanas após a realização do evento, visto que a reciprocidade será permanente aqui na seção Páginas Amigas. Isso implica que o banner deve estar fixo na página indicada, ou seja, não é o caso de inserir em conteúdo cronológico de notícias.
