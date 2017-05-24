@@ -200,6 +200,11 @@ ul.blog li {
  ul.topicos li{
     list-style-type: disc;
  }
+
+ .carousel{
+    height: 250px;
+ }
+
 /**
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
