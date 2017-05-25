@@ -1,5 +1,7 @@
 (function ($) {
     $(function () {
+        $('.carousel').carousel({fullWidth: false, dist: -100, shift: 150, padding: 150,indicators: true});
+        autoplay();
         $('.button-collapse').sideNav();
         $('.parallax').parallax();
         $("#patrocinio").load("logo.html");
@@ -14,6 +16,7 @@
         });
         //countdown(new Date("Sep 27, 2017 08:00:00").getTime());
 
+        
     }); // end of document ready
 })(jQuery); // end of jQuery name space
 
@@ -48,6 +51,10 @@ $(function () { // wait for document ready
     }*/
 });
 
+function autoplay() {
+    $('.carousel').carousel('next');
+    setTimeout(autoplay, 2000);
+}
 function countdown(diaD){
 
 var countDownDate = new Date("Sep 27, 2017 08:00:00").getTime();
