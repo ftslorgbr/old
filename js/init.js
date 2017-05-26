@@ -1,6 +1,6 @@
 (function ($) {
     $(function () {
-        $('.carousel').carousel({fullWidth: false, dist: -100, shift: 150, padding: 150,indicators: true});
+        $('.carousel').carousel({fullWidth: false, dist: -0, shift: 50, padding: 0,indicators: true, noWrap:false});
         autoplay();
         $('.button-collapse').sideNav();
         $('.parallax').parallax();
@@ -53,7 +53,7 @@ $(function () { // wait for document ready
 
 function autoplay() {
     $('.carousel').carousel('next');
-    setTimeout(autoplay, 2000);
+    setTimeout(autoplay, 3000);
 }
 function countdown(diaD){
 
