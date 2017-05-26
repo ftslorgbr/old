@@ -22,3 +22,6 @@ Ajude-nos a difundir o IX FTSL com o nosso material de divulgação (vários tam
 
 Agradecemos seu apoio na nossa divulgação. Estamos à disposição para maiores esclarecimentos.
 
+<div>
+{% include paginas-amigas.html %}
+</div>
