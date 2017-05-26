@@ -8,7 +8,7 @@ Divulgue sua marca gastando nada e aparecendo muito!
 A seção Páginas Amigas é um espaço para a publicação das logomarcas dos sites que divulgam o banner do IX Fórum de Tecnologia em Software Livre (FTSL). Essa é uma forma de retribuir a divulgação espontânea do evento em sites de comunidades, usuários, cooperativas, empresas e profissionais. Se você publicou o banner do IX FTSL em seu site e tem interesse em participar da seção “Páginas Amigas”, favor notificar a organização do IX FTSL pelo e-mail contato@ftsl.org.br, repassando os dados e arquivo conforme as regras a seguir:
 
 <ul class="topicos">
-<li class="topicos">As dimensões da imagem devem ser 75 pixels de largura por 49 pixels de altura;</li>
+<li class="topicos">As dimensões da imagem devem ser 200 pixels de largura por 120 pixels de altura;</li>
 <li class="topicos">O tamanho do arquivo deve ser menor que 15 KB (15.000 bytes);</li>
 <li class="topicos">Explicitar qual a URL ou endereço de e-mail a imagem deve apontar;</li>
 <li class="topicos">O formato do arquivo pode ser JPG, PNG, GIF ou SVG; </li>
