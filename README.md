@@ -14,7 +14,7 @@ Tem dificuldades para trabalhar com o github?
 
 # Para executar localmente
 
-O site foi feito usando o [Jekyll](https://jekyllrb.com), que é um gerador de sites estáticos.
+O site foi feito usando o [Jekyll](https://jekyllrb.com). O Jekyll é um gerador de códigos estáticos. A ideia é que você crie páginas e até mesmo um blog de forma estática, usando HTML que você já conhece, junto com alguns truques que irão ajudá-lo a converter seu site em arquivos estáticos, pronto para ser publicado. Ele é baseado em vários formatos como Markdown para formatação de textos e posts e um padrão de template chamado Liquid com um pouco de YAML para exibir e guardar os dados das variáveis. (Fonte: [Tableless](https://tableless.com.br/jekyll-servindo-sites-estaticos))
 
 * "gem install jekyll bundler" para instalar o jekyll, [mais informações](https://jekyllrb.com/docs/installation);
 * dentro da pasta que contém o código do site (por exemplo ftslorgbr.github.io) execute o comando 'bundle install' para baixar as gems utilizadas no projeto;
