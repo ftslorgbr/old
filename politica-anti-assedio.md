@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Política Anti-assédio"
+title:  "Política Antiassédio"
 ---
 
-O IX Fórum de Tecnologia em Software Livre (FTSL) está comprometido com uma política anti-assédio que visa proporcionar uma experiência livre de assédio para todos e todas as participantes, independentemente de gênero, necessidades especiais, orientação sexual, aparência física, raça, etnicidade, religião e condição sócio-econômica.
+O IX Fórum de Tecnologia em Software Livre (FTSL) está comprometido com uma política antiassédio que visa proporcionar uma experiência livre de assédio para todos e todas as participantes, independentemente de gênero, necessidades especiais, orientação sexual, aparência física, raça, etnicidade, religião e condição sócio-econômica.
 
 Nós – membros da organização do FTSL – não toleramos nenhuma forma de assédio ou desrespeito aos participantes do evento. Imagens e linguagem de caráter sexual discriminatório não são apropriadas para o FTSL. Participantes que violarem este código de conduta serão convidados/convidadas a se retirarem do evento.
 
@@ -21,6 +21,6 @@ Nós esperamos que todos/as participantes sigam as orientações gerais deste do
 
 Esta política está licenciada através da Creative Commons – Brasil - Zero (Domínio Público) e foi baseada na [política anti-assédio do VI Fórum de Tecnologia em Software Livre (FTSL)](http://sistema.ftsl.org.br/2014/politica-anti-assedio), que por sua vez foi paseada na [política anti-assédio do wiki “Feminist Geek”](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), criada pela [Ada Initiative](http://adainitiative.org/) com a ajuda de várias voluntárias e voluntários.
 
-Esta política foi baseada em várias outras políticas anti-assédio, incluindo a política da Ohio LinuxFest, escrita por Esther Filderman e Beth Lynn, e a Con Anti-Harassment Project.
+Esta política foi baseada em várias outras políticas antiassédio, incluindo a política da Ohio LinuxFest, escrita por Esther Filderman e Beth Lynn, e a Con Anti-Harassment Project.
 
 Mary Gardiner, Valerie Aurora, Sarah Smith, e Donna Benjamin generalizaram as políticas e adicionaram materiais de suporte. A tradução para o português do Brasil foi feita por Luis Felipe Murillo. Membros da LinuxChix, Geek Feminism, bem como outros grupos contribuíram para este trabalho.
