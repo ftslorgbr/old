@@ -3,7 +3,7 @@ layout: post
 title:  "Primeiros convidados"
 date:   2017-06-08 08:23:19 -0300
 image: "primeiros_confirmados.jpg"
-excerpt: "Daniel e Flávio já enviaram seus trabalhos"
+excerpt: " "
 ---
 #### Daniel Lenharo
 ![Daniel]({{ site.baseurl }}/images/lenharo-Y17FHN56.jpg)
