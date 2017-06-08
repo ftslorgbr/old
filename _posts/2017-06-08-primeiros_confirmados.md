@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Primeiros confirmados"
+title:  "Primeiros convidados"
 date:   2017-06-08 08:23:19 -0300
 image: "primeiros_confirmados.jpg"
 excerpt: "Daniel e Flávio já enviaram seus trabalhos"
@@ -15,3 +15,4 @@ Analista de Informática com especialização em Redes e Segurança da Informaç
 ![Flávio]({{ site.baseurl }}/images/p7.png)
 
 Bacharel em Ciência da Computação, pós-graduado em Aplicações Corporativas pela UTFPR. Iniciou em empresas privadas, foi funcionário no BB e atualmente é funcionário do Serpro. Membro do time oficial de tradução do Zend Framework (ZF), é autor dos livros: ZF Desenvolvendo em PHP 5 Orientado a Objetos com MVC, ZF Componentes Poderosos para PHP e Criando Aplicações PHP com Zend e Dojo. Associado da ABRAPHP, Zend PHP Certified Engineer, ZF Certified Engineer, ZF 2 Certified Architect e contribuidor oficial do Tine 2.0.
+
