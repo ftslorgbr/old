@@ -4,6 +4,7 @@ title:  "Primeiros convidados"
 date:   2017-06-08 08:23:19 -0300
 image: "primeiros_confirmados.jpg"
 excerpt: " "
+permalink: /2017/06/08/primeiros_confirmados.html
 ---
 #### Daniel Lenharo
 ![Daniel]({{ site.baseurl }}/images/lenharo-Y17FHN56.jpg)

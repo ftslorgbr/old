@@ -1,4 +1,5 @@
 ---
+permalink: /2017/05/31/linkedin_telegram.html
 layout: post
 title:  "LinkedIn e Telegram"
 date:   2017-05-31 08:23:19 -0300
