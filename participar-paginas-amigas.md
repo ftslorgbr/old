@@ -1,4 +1,6 @@
 ---
+excerpt: "O maior evento gratuito de software livre do país!"
+image: ../banners/Web128x128.png
 layout: post
 title: 'Como participar das páginas amigas'
 ---
