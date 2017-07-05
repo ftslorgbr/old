@@ -4,6 +4,7 @@ title:  "Pentaho Day 2017"
 date:   2017-05-13 11:23:19 -0300
 image: "pentaho-IMG-20170512-WA0006.jpg"
 excerpt: "Estávamos lá no Pentaho Day para divulgar o FTSL."
+permalink: /2017/05/13/pentahoday.html
 ---
 
 Agradecemos ao Marcio e aos organizadores do Pentaho Day 2017 pelo apoio.

@@ -1,4 +1,5 @@
 ---
+permalink: /2017/05/31/wordpress.html
 layout: post
 title:  "22o. Meetup WordPress Curitiba"
 date:   2017-05-31 08:23:19 -0300

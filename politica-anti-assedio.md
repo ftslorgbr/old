@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Política Antiassédio"
+excerpt: "O maior evento gratuito de software livre do país!"
+image: ../banners/Web128x128.png
 ---
 
 O IX Fórum de Tecnologia em Software Livre (FTSL) está comprometido com uma política antiassédio que visa proporcionar uma experiência livre de assédio para todos e todas as participantes, independentemente de gênero, necessidades especiais, orientação sexual, aparência física, raça, etnicidade, religião e condição sócio-econômica.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Patrocínio"
+excerpt: "O maior evento gratuito de software livre do país!"
+image: ../banners/Web128x128.png
 ---
 O evento é totalmente gratuito, ou seja, não é cobrado nenhum valor para a inscrição dos participantes, o que coloca o evento em plena sintonia com a comunidade. Em edições anteriores do FTSL observou-se, entre os participantes, a predominância de estudantes de graduação e pós-graduação na área de tecnologia da informação de Curitiba e Região além de profissionais ligados ao desenvolvimento de sistemas e gestão.
 
