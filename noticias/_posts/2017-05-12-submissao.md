@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Submissão de trabalhos"
+title:  "[ENCERRADA] Submissão de trabalhos"
 date:   2017-05-12 11:23:19 -0300
 image: "artigos.jpg"
-excerpt: "O sistema para envio de propostas está disponível. Envie agora sua proposta de palestra, minicursos, encontro de comunidade ou outros."
+excerpt: "O prazo foi até 15 de julho."
 permalink: /2017/05/12/submissao.html
 ---
-Para mais informações e envio de propostas, acesse:
 
-[https://ftsl.websiteseguro.com/ftsl9/node/1](https://ftsl.websiteseguro.com/ftsl9/node/1)
+Atualização:
+O prazo foi até 15 de julho.
