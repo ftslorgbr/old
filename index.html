@@ -133,7 +133,7 @@ image: ../banners/Web128x128.png
                       </a>
                   </div>
                   <a href="{{ convidado.url }}">
-                      <span class="amber darken-2 white-text center " style="display: inline-block; padding:10px;margin:0; width:100% ">
+                      <span class="{% cycle 'green', 'red', 'brown', 'teal', 'blue', 'amber' %} darken-2 white-text center " style="display: inline-block; padding:10px;margin:0; width:100% ">
                           {{ convidado.title }}
                       </span>
                   </a>
