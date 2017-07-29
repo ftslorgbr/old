@@ -150,7 +150,7 @@ image: ../banners/Web128x128.png
     <section class="panel blue-grey darken-4" id="noticias" >
         <div class="container" style="padding: 30px 10px">
             <div class="row">
-  {% for post in site.categories.noticias %}
+  {% for post in site.categories.noticias limit: 5 %}
                 <div class="col s12 m6 l4">
                     <div class="card large">
                         <div class="card-image">
@@ -168,6 +168,22 @@ image: ../banners/Web128x128.png
                     </div>
                 </div>
   {% endfor %}
+                <div class="col s12 m6 l4">
+                    <div class="card large">
+                        <div class="card-image">
+                            <a href="todas_noticias.html">
+                                <img src="images/thumbs/artigos.jpg" style="max-height: 200px">
+                            </a>
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title blue-text text-darken-4 xs-font"><a href="todas_noticias.html">Veja todas as notícias</a></span>
+                            <p>Na página principal estão somente as 5 notícias mais recentes. Clique abaixo para ver todas</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="todas_noticias.html">saiba mais</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
