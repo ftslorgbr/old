@@ -32,3 +32,5 @@ Membro fundador e moderador das listas em língua portuguesa da TDF. Foi profess
 Servidor público estatutário federal, desde 1987. Desempenhou atividades na área de Comunicação Institucional na WebTv da UFRJ. Compõe o time da UFPRTV.
 
 Diretor Geral de Rádio e TV da UFPRTV e Professor da UFPR. Além disso, trabalha na área de Comunicação com ênfase em tecnologia, TV Digital, convergência de mídias, vídeo, telejornalismo, documentário, cinema e vídeo ficcional.
+
+[Clique aqui para ver essa palestra na grade do FTSL](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=284)
