@@ -3,7 +3,7 @@ layout: post
 title:  "UFPRTV + Software Livre: Caso de Sucesso? Fale Conosco!"
 date:   2017-08-15 14:13:00 -0300
 image: "ufprtv_softwarelivre.png"
-excerpt: " "
+excerpt: "Case de sucesso de IPTV para a UFPR TV"
 permalink: /2017/08/15/ufprtv_software_livre_caso_de_sucesso.html
 ---
 
@@ -27,7 +27,9 @@ Diretor Geral de Rádio e TV da UFPRTV e Professor da UFPR. Além disso, trabalh
 
 Membro fundador e moderador das listas em língua portuguesa da TDF. Foi professor universitário, tendo ministrado Engenharia de Software, Engenharia de Sistemas, Construção de Sistemas Operacionais e Arquitetura de Sistemas Operacionais. Atualmente, tem se envolvido em pesquisa aplicada para Video Broadcasting, com uso de ferramentas livres.
 
-#### José Carlos Appolinário
+#### José Carlos Appolinário 
+
+![Jose Carlos Appolinário]({{ site.baseurl }}/images/JOSE_APPOLINARIO.jpg)
 
 Servidor público estatutário federal, desde 1987. Desempenhou atividades na área de Comunicação Institucional na WebTv da UFRJ. Compõe o time da UFPRTV.
 
