@@ -4,7 +4,7 @@ title: Ramiro Batista da Luz
 image: ramirobatistadaluz
 excerpt: Ramiro Batista da Luz
 ---
-![Ramiro Batista da Luz]({{ site.baseurl }}/images/{{ page.image }}.jpg)
+![Ramiro Batista da Luz]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
 
 
 ### Palestra: Deploy de aplicações com ansible, exemplos em python

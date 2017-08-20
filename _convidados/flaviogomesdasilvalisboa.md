@@ -4,7 +4,7 @@ title: Flávio Gomes da Silva Lisboa
 image: flaviogomesdasilvalisboa
 excerpt: Flávio Gomes da Silva Lisboa
 ---
-![Flávio Gomes da Silva Lisboa]({{ site.baseurl }}/images/{{ page.image }}.jpg)
+![Flávio Gomes da Silva Lisboa]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
 
 
 ### Palestra: Fazendo seu Google: criando robôs de coleta de dados de sites com PHP

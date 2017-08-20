@@ -4,7 +4,7 @@ title: Antonio Gomide
 image: antoniogomide
 excerpt: Antonio Gomide
 ---
-![Antonio Gomide]({{ site.baseurl }}/images/{{ page.image }}.jpg)
+![Antonio Gomide]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
 
 
 ### Minicurso: Introdução à Linguagem de Programação Python

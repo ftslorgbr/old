@@ -4,7 +4,7 @@ title: João Eriberto Mota Filho
 image: joaoeribertomotafilho
 excerpt: João Eriberto Mota Filho
 ---
-![João Eriberto Mota Filho]({{ site.baseurl }}/images/{{ page.image }}.jpg)
+![João Eriberto Mota Filho]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
 
 
 ### Palestra: Controle de anomalias e bloqueio de ataques em redes em tempo real
