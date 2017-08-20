@@ -124,12 +124,12 @@ image: ../banners/Web128x128.png
 
       <div class="row" style="padding: 0 20px; margin-bottom: 0;">
 
-          {% for convidado in site.categories.convidados %}
+          {% for convidado in site.convidados %}
           <div class="col s12 m6 l3">
               <div class="row white shadow222 ">
                   <div class="center" style="background: #ededed">
                       <a href="{{ convidado.url }}">
-                          <img class="responsive-img center" src="images/thumbs/{{ convidado.image }}" style="padding: 30px;">
+                          <img class="responsive-img center" src="{{ site.baseurl}}/convidados/{{ convidado.image }}-thumb.jpg" style="padding: 30px;">
                       </a>
                   </div>
                   <a href="{{ convidado.url }}">

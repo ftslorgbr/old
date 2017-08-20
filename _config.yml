@@ -28,5 +28,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+collections:
+  convidados:
+    output: true
+
 feed:
   path: rss.xml
