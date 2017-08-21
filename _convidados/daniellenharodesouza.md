@@ -4,7 +4,7 @@ title: Daniel Lenharo de Souza
 image: daniellenharodesouza
 excerpt: Daniel Lenharo de Souza
 ---
-![Daniel Lenharo de Souza]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Daniel Lenharo de Souza]({{ site.baseurl }}/convidados/daniellenharodesouza.jpg)
 
 
 ### Palestra: Conhecendo o trabalho da equipe de tradução do Debian
