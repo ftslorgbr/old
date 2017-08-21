@@ -4,7 +4,7 @@ title: David Jourdain
 image: davidjourdain
 excerpt: David Jourdain
 ---
-![David Jourdain]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![David Jourdain]({{ site.baseurl }}/convidados/davidjourdain.jpg)
 
 
 ### Palestra: UFPRTV + Software Livre: Caso de Sucesso? Fale Conosco!
