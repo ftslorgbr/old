@@ -4,7 +4,7 @@ title: Er Galvão Abbott
 image: ergalvaoabbott
 excerpt: Er Galvão Abbott
 ---
-![Er Galvão Abbott]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Er Galvão Abbott]({{ site.baseurl }}/convidados/ergalvaoabbott.jpg)
 
 
 ### Palestra: Os 4 Pilares da Segurança de uma Aplicação

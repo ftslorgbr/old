@@ -4,7 +4,7 @@ title: Julio Cezar Neves
 image: juliocezarneves
 excerpt: Julio Cezar Neves
 ---
-![Julio Cezar Neves]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Julio Cezar Neves]({{ site.baseurl }}/convidados/juliocezarneves.jpg)
 
 
 ### Palestra: Assim na Terra como no Shell 
