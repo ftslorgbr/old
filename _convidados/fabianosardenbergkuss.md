@@ -4,7 +4,7 @@ title: Fabiano Sardenberg Kuss
 image: fabianosardenbergkuss
 excerpt: Fabiano Sardenberg Kuss
 ---
-![Fabiano Sardenberg Kuss]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Fabiano Sardenberg Kuss]({{ site.baseurl }}/convidados/fabianosardenbergkuss.jpg)
 
 
 ### Palestra: ESP8266: Básico sobre NodeMCU e linguagem Lua
