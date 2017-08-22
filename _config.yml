@@ -18,7 +18,8 @@ description: "O maior e mais importante evento de Software Livre de Curitiba e R
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonesbalada.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "forumslcuritiba"
-github_username:  "ftslorgbr"
+github_username:  "jonesbalada"
+github_repo:  "jonesbalada.github.io"
 
 # Build settings
 markdown: kramdown
