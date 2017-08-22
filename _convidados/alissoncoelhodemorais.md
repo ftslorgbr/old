@@ -4,7 +4,7 @@ title: Alisson Coelho de Morais
 image: alissoncoelhodemorais
 excerpt: Alisson Coelho de Morais
 ---
-![Alisson Coelho de Morais]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Alisson Coelho de Morais]({{ site.baseurl }}/convidados/alissoncoelhodemorais.jpg)
 
 
 ### Palestra: git para vida! A comunidade, seu curriculo e tudo mais...
