@@ -4,7 +4,7 @@ title: Paulo Henrique de Lima Santana
 image: paulohenriquedelimasantana
 excerpt: Paulo Henrique de Lima Santana
 ---
-![Paulo Henrique de Lima Santana]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Paulo Henrique de Lima Santana]({{ site.baseurl }}/convidados/paulohenriquedelimasantana.jpg)
 
 
 ### Palestra: O Projeto Debian quer você!
