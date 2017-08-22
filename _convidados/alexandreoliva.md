@@ -4,7 +4,7 @@ title: Alexandre Oliva
 image: alexandreoliva
 excerpt: Alexandre Oliva
 ---
-![Alexandre Oliva]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Alexandre Oliva]({{ site.baseurl }}/convidados/alexandreoliva.jpg)
 
 
 ### Palestra: Um Papai Noel de pós-verdade e o presente escondido
