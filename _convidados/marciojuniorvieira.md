@@ -4,7 +4,7 @@ title: Marcio Junior Vieira
 image: marciojuniorvieira
 excerpt: Marcio Junior Vieira
 ---
-![Marcio Junior Vieira]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Marcio Junior Vieira]({{ site.baseurl }}/convidados/marciojuniorvieira.jpg)
 
 
 ### Palestra: Open Source Data Science - Elaborando uma plataforma de Big Data & Analytics 100% Open Source
