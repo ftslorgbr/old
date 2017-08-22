@@ -4,7 +4,7 @@ title: Sidney Batista Filho
 image: sidneybatistafilho
 excerpt: Sidney Batista Filho
 ---
-![Sidney Batista Filho]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Sidney Batista Filho]({{ site.baseurl }}/convidados/sidneybatistafilho.jpg)
 
 
 ### Minicurso: Modelagem de Processos de Negócios
