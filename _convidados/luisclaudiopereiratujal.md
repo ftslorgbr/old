@@ -4,7 +4,7 @@ title: Luis Claudio Pereira Tujal
 image: luisclaudiopereiratujal
 excerpt: Luis Claudio Pereira Tujal
 ---
-![Luis Claudio Pereira Tujal]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Luis Claudio Pereira Tujal]({{ site.baseurl }}/convidados/luisclaudiopereiratujal.jpg)
 
 
 ### Palestra: Plataforma de IoT sobre Infraestrutura Flexível - Caso Prático
