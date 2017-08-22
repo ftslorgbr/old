@@ -4,7 +4,7 @@ title: Christiano Linuxmen
 image: christianolinuxmen
 excerpt: Christiano Linuxmen
 ---
-![Christiano Linuxmen]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Christiano Linuxmen]({{ site.baseurl }}/convidados/christianolinuxmen.jpg)
 
 
 ### Palestra: Devops: Base para transformação da TI
