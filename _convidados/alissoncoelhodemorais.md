@@ -6,6 +6,7 @@ excerpt: Alisson Coelho de Morais
 ---
 ![Alisson Coelho de Morais]({{ site.baseurl }}/convidados/alissoncoelhodemorais.jpg)
 
+###### Alisson com seus parças: spacemacs e debian
 
 ### Palestra: git para vida! A comunidade, seu curriculo e tudo mais...
 
