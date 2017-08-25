@@ -4,7 +4,7 @@ title: Thomaz Jefferson Ferreira dos Santos
 image: thomazjeffersonferreiradossantos
 excerpt: Thomaz Jefferson Ferreira dos Santos
 ---
-![Thomaz Jefferson Ferreira dos Santos]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Thomaz Jefferson Ferreira dos Santos]({{ site.baseurl }}/convidados/thomazjeffersonferreiradossantos.jpg)
 
 
 ### Minicurso: Endian Firewall - Iniciando com o mundo da segurança
