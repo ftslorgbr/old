@@ -19,10 +19,11 @@ Pratique robótica, demonstre suas capacidades, ou venha simplesmente acompanhar
 
 #### Quando
 
-Inscreva-se [aqui]({https://docs.google.com/forms/d/e/1FAIpQLSdH0HnZEIB6Pa5xuEF3h0cjRWVHjpQq01kq8gCFr9mfIzN-XQ/viewform})!
+O torneio ocorrerá no dia 29/09/2017 – a partir das 18:00 na UTFPR (Ao lado do Shopping Estação). 
+
+As inscrições poderão ser feitas até dia 20/09/2017 e são gratuitas!
+
+Inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSdH0HnZEIB6Pa5xuEF3h0cjRWVHjpQq01kq8gCFr9mfIzN-XQ/viewform)!
 
 ![Robôs Famosos]({{ site.baseurl }}/images/robos_famosos_01.jpg)
 
-#### Índice QRCode
-
-![Índice QRCode]({{ site.baseurl }}/images/qrcode_torneio_de_robotica.png)
