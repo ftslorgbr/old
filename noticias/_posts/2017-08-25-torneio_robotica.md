@@ -23,3 +23,6 @@ Inscreva-se [aqui]({https://docs.google.com/forms/d/e/1FAIpQLSdH0HnZEIB6Pa5xuEF3
 
 ![Robôs Famosos]({{ site.baseurl }}/images/robos_famosos_01.jpg)
 
+#### Índice QRCode
+
+![Índice QRCode]({{ site.baseurl }}/images/qrcode_torneio_de_robotica.png)
