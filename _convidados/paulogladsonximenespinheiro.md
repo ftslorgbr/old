@@ -4,7 +4,9 @@ title: Paulo Gladson Ximenes Pinheiro
 image: paulogladsonximenespinheiro
 excerpt: Paulo Gladson Ximenes Pinheiro
 ---
-![Paulo Gladson Ximenes Pinheiro]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Paulo Gladson Ximenes Pinheiro](https://s.gravatar.com/avatar/a535962e6ccf3abec732d42fc351dbe9?s=120)
+
+
 
 
 ### Palestra: Construindo Microserviços JEE7 com Framework Demoiselle
