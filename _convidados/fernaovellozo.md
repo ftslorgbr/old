@@ -25,5 +25,5 @@ Professor de história que virou analista de sistemas.
  Palestrante do FISL, CryptoRave e de semanas acadêmicas na UFPR e na UTFPR.
  
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=233)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=233)
 

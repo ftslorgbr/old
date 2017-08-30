@@ -26,7 +26,7 @@ Palestrante do Flisol 2016 em Curitiba.
  - Técnico em telecomunicações pela Escola Técnica de Brasília.
  - CREA 11923/TD-DF
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=242)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=242)
 
 ### Palestra: Asterisk e Telefonia IP - Veja como funciona na prática. 
 
@@ -47,5 +47,5 @@ Palestrante do Flisol 2016 em Curitiba.
  - Técnico em telecomunicações pela Escola Técnica de Brasília.
  - CREA 11923/TD-DF
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=243)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=243)
 

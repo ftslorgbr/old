@@ -14,5 +14,5 @@ A principal maneira de colaborar com o Projeto Debian é fazendo empacotamento d
 #### Currículo
 Debian Maintainer (DM), Bacharel em Ciência da Computação pela UFPR, trabalha com administração de redes e sistemas GNU/Linux em Curitiba. Entusiasta de Software Livre, participa de diversos grupos de atuação como a Comunidade Curitiba Livre e a Associação Software Livre.Org. Palestrou em edições do FISL, da Latinoware e da Campus Party Brasil. Coordenou a organização de eventos em Curitiba como FLISOL,
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=260)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=260)
 

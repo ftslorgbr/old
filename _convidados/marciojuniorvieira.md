@@ -14,5 +14,5 @@ Nesta palestra será apresentado como podemos construir uma plataforma para gera
 #### Currículo
 Fundador e CEO da Ambiente Livre Tecnologia. Atua como Cientista de Dados e Arquiteto de Software, Trabalha com Software Livre desde 2000. Formado em Tecnologia em Informática(UFPR), Pós-Graduado em Software Livre(UFPR). Palestrante em diversos em congressos relacionados a Software Livre: CONISLI, SOLISC, FISL, LATINOWARE, FLISOL, SFD, Pentaho Day, Campus Party, Joomla Day e TDC.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=182)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=182)
 

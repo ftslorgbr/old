@@ -4,7 +4,7 @@ title: Thomaz Jefferson Ferreira dos Santos
 image: thomazjeffersonferreiradossantos
 excerpt: Thomaz Jefferson Ferreira dos Santos
 ---
-![Thomaz Jefferson Ferreira dos Santos]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Thomaz Jefferson Ferreira dos Santos]({{ site.baseurl }}/convidados/thomazjeffersonferreiradossantos.jpg)
 
 
 ### Minicurso: Endian Firewall - Iniciando com o mundo da segurança
@@ -22,5 +22,5 @@ Analista de suporte/infraestrutura.
  Gosta de Jedis, café e liberdade
  Free you mind!
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=177)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=177)
 

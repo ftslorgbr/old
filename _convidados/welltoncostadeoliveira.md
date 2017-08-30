@@ -14,7 +14,7 @@ PHP é a linguagem mais utilizada no mundo quando se trata de desenvolvimento we
 #### Currículo
 É professor na UTFPR, campus francisco beltrão. Doutorando na UFPR e entusiasta Software Livre, GNU, impressoras 3D, programação em drones, internet das coisas, PHP e Inteligência artificial
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=278)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=278)
 
 ### Palestra: Impressão 3D com Software Livre na Prática
 
@@ -23,7 +23,7 @@ Impressoras 3D são tendências já faz algum tempo. Esta palestra mostra tudo s
 #### Currículo
 É professor na UTFPR, campus francisco beltrão. Doutorando na UFPR e entusiasta Software Livre, GNU, impressoras 3D, programação em drones, internet das coisas, PHP e Inteligência artificial
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=275)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=275)
 
 ### Minicurso: Android Livre: Instalando LineageOS e ReplicantOS
 
@@ -32,7 +32,7 @@ Quando se trata de software livre, Android aparece como o "salvador". Mas não �
 #### Currículo
 É professor na UTFPR, campus francisco beltrão. Doutorando na UFPR e entusiasta Software Livre, GNU, impressoras 3D, programação em drones, internet das coisas, PHP e Inteligência artificial
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=277)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=277)
 
 ### Minicurso: PHP com MySQL e PostgreSQL
 
@@ -41,5 +41,5 @@ Esta oficina tem como objetivo mostrar na prática como funciona o PHP básico e
 #### Currículo
 É professor na UTFPR, campus francisco beltrão. Doutorando na UFPR e entusiasta Software Livre, GNU, impressoras 3D, programação em drones, internet das coisas, PHP e Inteligência artificial
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=279)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=279)
 

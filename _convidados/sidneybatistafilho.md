@@ -22,5 +22,5 @@ Este workshop capacitará os alunos à:
 Analista de Sistemas no SERPRO (Serviço Federal de Processamento de Dados), desde 2005. Mestre em Informática pela UFRJ (Universidade Federal do Rio de Janeiro) - NCE (Núcleo de Computação Eletrônica) - IM (Instituto de Matemática), em Arquitetura de Computadores / Processamento Paralelo. Bacharel em Ciência da Computação pela PUC (Pontifícia Universidade Católica) Minas Gerais. Professor Universitário. Sítio: http://bit.ly/sidneybf. 
  
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=203)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=203)
 

@@ -14,5 +14,5 @@ Com a WWW, máquinas de propaganda têm perdido seus monopólios locais.  Querem
 #### Currículo
 Engenheiro de Computação e Mestre em Ciências da Computação formado na Unicamp. Evangelizador do Movimento Software Livre. Palestrante GNU. Conselheiro da FSF (Free Software Foundation) América Latina. Ativista do grupo LibrePlanet São Paulo. Mantenedor do GNU Linux-libre e co-mantenedor do GCC (GNU Compiler Collection), GNU binutils e GNU libc. Desenvolvedor de ferramentas de desenvolvimento GNU na Red Hat Brasil.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=295)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=295)
 
