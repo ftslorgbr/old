@@ -4,7 +4,7 @@ title: Fernão Vellozo
 image: fernaovellozo
 excerpt: Fernão Vellozo
 ---
-![Fernão Vellozo]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Fernão Vellozo]({{ site.baseurl }}/convidados/fernaovellozo.jpg)
 
 
 ### Minicurso: Como criar sua própria Root CA (autoridade certificadora raíz)
