@@ -14,5 +14,5 @@ O projeto visa oferecer o sistema operacional Linux inteiramente via internet (n
 #### Currículo
 Alessandro Elias, natural de Curitiba graduando em Ciência da Computação pela Universidade Federal do Paraná, candidato ao mestrado Pela Universidade Federal do Paraná. Trabalho no C3SL desde 2014 estive em Intercâmbio na Alemanha por um semestre, onde cursei as disciplina de redes e P2P na Universidade Albert Ludwigs University of Freiburg e trabalhei no projeto boot remoto pela mesma Universidade, atualmente coordeno o projeto de boot remoto no C3SL. Estive por cinco anos na Inglaterra.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=215)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=215)
 

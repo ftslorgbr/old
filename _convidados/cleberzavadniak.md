@@ -15,7 +15,7 @@ Quando falamos em Arquiteturas Orientadas a Eventos (EDA) é comum que pensemos 
 #### Currículo
 Estudei Ciência da Computação na UFPR, trabalho com desenvolvimento de software há mais de 12 anos e hoje sou CTO da Dronemapp, empresa que trabalha com fornecimento de tecnologia para inteligência de negócios por meio de fotogrametria baseada em fotos tiradas por drones. Trabalho com Python, Linux e várias outras tecnologias livres.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=179)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=179)
 
 ### Palestra: Fotogrametria: gerando modelos 3D a partir de imagens 2D
 
@@ -24,7 +24,7 @@ Nesta palestra apresentarei o conceito da fotogrametria, algumas aplicações e 
 #### Currículo
 Estudei Ciência da Computação na UFPR, trabalho com desenvolvimento de software há mais de 12 anos e hoje sou CTO da Dronemapp, empresa que trabalha com fornecimento de tecnologia para inteligência de negócios por meio de fotogrametria baseada em fotos tiradas por drones. Trabalho com Python, Linux e várias outras tecnologias livres.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=194)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=194)
 
 ### Palestra: Gerenciando infraestrutura com Salt
 
@@ -34,5 +34,5 @@ Salt é uma poderosa ferramenta escrita em Python para gerenciar configurações
 #### Currículo
 Estudei Ciência da Computação na UFPR, trabalho com desenvolvimento de software há mais de 12 anos e hoje sou CTO da Dronemapp, empresa que trabalha com fornecimento de tecnologia para inteligência de negócios por meio de fotogrametria baseada em fotos tiradas por drones. Trabalho com Python, Linux e várias outras tecnologias livres.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=199)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=199)
 

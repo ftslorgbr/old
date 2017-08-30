@@ -24,5 +24,5 @@ Administrador de Redes na COHAB-CT.
  Trabalhou como Programador e Analista de Sistemas na Sponte Informática.
  
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=183)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=183)
 

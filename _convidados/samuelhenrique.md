@@ -14,5 +14,5 @@ Uma apresentação mais completa possível do Debian e como funciona o seu model
 #### Currículo
 Debian Maintainer, atuando primariamente no time pkg-security. 
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=263)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=263)
 

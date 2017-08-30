@@ -15,7 +15,7 @@ O Composer é uma ferramenta poderosíssima para o PHP. Ele facilita a reutiliza
 Desenvolvedor PHP, co-autor do livro Test-Driven Development, Teste e Design no Mundo Real com PHP pela editora Casa do Código.
  Desenvolvedor PHP há cerca de 7 anos, já passou por Java, .Net e um pouco de Delphi mas foi na linguagem PHP que encontrou a motivação para sua carreira de desenvolvedor. Mais de 2 anos se aprofundando no Zend Framework, já passou por WordPress e CakePHP.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=189)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=189)
 
 ### Palestra: Já ouviu falar sobre TDD? (Desenvolvimento orientado à testes)
 
@@ -27,5 +27,5 @@ Muitos pensam que pratica-se TDD somente com linguagem compiladas como Java, mas
 Desenvolvedor PHP, co-autor do livro Test-Driven Development, Teste e Design no Mundo Real com PHP pela editora Casa do Código.
  Desenvolvedor PHP há cerca de 7 anos, já passou por Java, .Net e um pouco de Delphi mas foi na linguagem PHP que encontrou a motivação para sua carreira de desenvolvedor. Mais de 2 anos se aprofundando no Zend Framework, já passou por WordPress e CakePHP.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=188)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=188)
 

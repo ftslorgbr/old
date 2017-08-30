@@ -18,7 +18,7 @@ Ativista do OpenBSD desde 2005.
  Palestrante do OpenBSD desde 2015 no FTSL, Crytorave 2016 2017.
  Formação academica em Psicologia PUC_SP
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=192)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=192)
 
 ### Minicurso: OpenBSD para Viver
 
@@ -31,5 +31,5 @@ Ativista do OpenBSD desde 2005.
  Palestrante do OpenBSD desde 2015 no FTSL, Crytorave 2016 2017.
  Formação academica em Psicologia PUC_SP
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=193)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=193)
 

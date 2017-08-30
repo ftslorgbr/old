@@ -15,5 +15,5 @@ Criamos o Endless OS para democratizar o acesso à informação através de um s
 #### Currículo
 Michele Silva tem 28 anos e é formada em Publicidade em Propaganda e Produção Cultural. Foi convidada a se juntar à startup pelo conhecimento sobre comunidades adquirido através de seu trabalho como blogueira e ativista comunitária no Rio de Janeiro. Logo no início integrou a equipe de pesquisas de campo que trouxe o lado humano para o desenvolvimento do Endless OS, coletando e analisando feedback e hoje é do time de marketing da Endless.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=302)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=302)
 

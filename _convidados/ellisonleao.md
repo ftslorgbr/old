@@ -14,5 +14,5 @@ Nessa palestra demonstrarei como usar Python para criar bots para o Slack, um do
 #### Currículo
 7 anos de experiência com web/engenharia de software criando vários projetos que mudaram a vida de pessoas. Bacharel em Ciência da Computação (UFAL) . Pós graduado em Desenvolvimento de Jogos (PUC-PR). 
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=266)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=266)
 
