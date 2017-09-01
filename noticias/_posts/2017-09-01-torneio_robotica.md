@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Torneio de Robótica"
-date:   2017-08-25 10:54:00 -0300
-image: "torneio_de_robotica.png"
+date:   2017-09-01 07:34:00 -0300
+image: "torneio_de_robotica_thumb.jpg"
 excerpt: "Sétimo Torneio de Robótica Warlock"
 permalink: /2017/08/15/torneio_de_robotica.html
 ---
@@ -25,5 +25,21 @@ As inscrições poderão ser feitas até dia 20/09/2017 e são gratuitas!
 
 Inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSdH0HnZEIB6Pa5xuEF3h0cjRWVHjpQq01kq8gCFr9mfIzN-XQ/viewform)!
 
+![Equipe Warlock]({{ site.baseurl }}/images/equipe_warlock.jpg)
+
+![Robô de combate]({{ site.baseurl }}/images/warlock_robos_1.jpg)
+
+![Robô de combate]({{ site.baseurl }}/images/warlock_robos_2.jpg)
+
+![Robô de combate]({{ site.baseurl }}/images/warlock_robos_3.jpg)
+
+![Robô de combate]({{ site.baseurl }}/images/warlock_robos_4.jpg)
+
+![Robô de combate]({{ site.baseurl }}/images/warlock_robos_5.jpg)
+
+![Robô de combate]({{ site.baseurl }}/images/warlock_robos_6.jpg)
+
 ![Robôs Famosos]({{ site.baseurl }}/images/robos_famosos_01.jpg)
+
+
 
