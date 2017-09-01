@@ -23,7 +23,8 @@ O torneio ocorrerá no dia 29/09/2017 – a partir das 18:00 na UTFPR (Ao lado d
 
 As inscrições poderão ser feitas até dia 20/09/2017 e são gratuitas!
 
-Inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSdH0HnZEIB6Pa5xuEF3h0cjRWVHjpQq01kq8gCFr9mfIzN-XQ/viewform)!
+- [Regras do torneio](http://ftsl.org.br/torneio_robotica.pdf)
+- Inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSdH0HnZEIB6Pa5xuEF3h0cjRWVHjpQq01kq8gCFr9mfIzN-XQ/viewform)!
 
 ![Equipe Warlock]({{ site.baseurl }}/images/equipe_warlock.jpg)
 
