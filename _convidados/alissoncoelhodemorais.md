@@ -4,6 +4,7 @@ title: Alisson Coelho de Morais
 image: alissoncoelhodemorais
 excerpt: Alisson Coelho de Morais
 ---
+
 ![Alisson Coelho de Morais]({{ site.baseurl }}/convidados/alissoncoelhodemorais.jpg)
 
 ###### Alisson com seus parças: spacemacs e debian
