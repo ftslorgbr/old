@@ -33,5 +33,5 @@ Formado em Engenharia Civil pela UFPR.Trabalhou para a IBM Brasil (1971-1993), o
  Estes projetos tratam do controle da rede de distribuição elétrica. 
  Os projetos incluem aplicativos através de servidores Web, de modo que esteve envolvido com tecnologias Web desde 1998.
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=200)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

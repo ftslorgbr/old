@@ -14,5 +14,5 @@ excerpt: Lucas Percegona
 #### Currículo
 Lucas Percegona: Publicitário especialista em Inovação, proprietário da Agencia de Comunicação e Inovação Coax Co.Think. Co.Manager do Google Business Group e professor de Direção de Arte no Centro Europeu. 
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=304)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

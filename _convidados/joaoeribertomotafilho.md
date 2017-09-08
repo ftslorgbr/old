@@ -70,5 +70,5 @@ Muitas vezes, administradores de redes não dominam conceitos sobre protocolos e
 #### Currículo
 Oficial de Cavalaria do Exército Brasileiro. Gerente de Rede e de Segurança em Rede no Exército. Professor da Pós-graduação em Perícia Digital na Universidade Católica de Brasília (UCB). Autor dos livros Linux & Seus Servidores (2000), Pequenas Redes com Microsoft Windows (2001), Descobrindo o Linux (3ª edição em 2012) e Análise de tráfego em redes TCP/IP (2013). Desenvolvedor Debian. Membro do time de Forense do Debian
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=250)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

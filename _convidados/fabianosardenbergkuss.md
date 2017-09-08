@@ -32,5 +32,5 @@ Apresentar a arquitetura básica do modulo NodeMCU, uma placa para criação de 
 #### Currículo
 Doutorando e mestre em informática pela Universidade Federal do Paraná. Analista de sistemas do Serviço Federal de Processamento de Dados (SERPRO). Trabalho com pesquisa em tecnologias utilizando sistemas embarcados e SoC como ferramentas de apoio as atividades de ensino e aprendizagem.
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=206)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

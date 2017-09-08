@@ -14,5 +14,5 @@ O Flatpak é um novo modelo de distribuição e execução de apps que vem chama
 #### Currículo
 Contribuidor do projeto GNOME, desenvolvedor na Endless e entusiasta do Software Livre.
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=299)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

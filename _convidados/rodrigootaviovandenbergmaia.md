@@ -14,5 +14,5 @@ Neste mini-curso de três horas voltado para iniciantes, criaremos uma agenda de
 #### Currículo
 Graduado em Sistemas de Informações, trabalha como Full Stack Developer na Devlandia. Desenvolve apps web com Ruby on Rails desde 2005 até os dias de hoje.
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=223)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

@@ -24,5 +24,5 @@ Docker e containers são assuntos do momento em TI. Muito tem sido discutido sob
 #### Currículo
 Evangelista na Rivendel Tecnologia, empresa especialista em cultura DevOps, Cloud Computing, Arquitetura de Software e Segurança da Informação, criador do Time Regional do Ubuntu em São Paulo. É coordenador das trilhas Devops, Cloud, Containers e Infraestrutura Ágil no TheDevConf. Recentemente idealizou e criou o projeto Papo de Sysadmin a fim de fomentar e esclarecer as comunidades e empresas sobre práticas devops, infraestrutura ágil, cloud e cultura sysadmin, entre outros temas correlatos.
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=297)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

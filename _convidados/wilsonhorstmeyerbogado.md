@@ -14,5 +14,5 @@ O objetivo do minicurso é apresentar os benefícios da implantação do OpenSta
 #### Currículo
 Possui graduação em Engenharia Civil pela UFPR (1988) e mestrado em Métodos Numéricos em Engenharia pela UFPR (1997). Atualmente é professor do Departamento Acadêmico de Informática da UTFPR, Campus Curitiba. Tem experiência em desenvolvimento de sistemas de informática incluindo, computação gráfica, bancos de dados, tecnologia Java, aplicações para internet, infraestrutura de redes e IaaS. 
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=228)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

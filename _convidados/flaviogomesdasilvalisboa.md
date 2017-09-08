@@ -32,7 +32,7 @@ Neste workshop aprenderemos como implementar um cadastro de uma aplicação web 
 #### Currículo
 Flávio Gomes da Silva Lisboa é bacharel em Ciência da Computação, especialista em Aplicações Corporativas usando Orientação a Objetos e Tecnologia Java, Zend Certified PHP Engineer, Zend Framework Certified Engineer, Zend Framework 2 Certified Architect, mestrando em Tecnologia e Sociedade, autor pela Novatec Editora, professor de testes unitários na Unicesumar, analista de desenvolvimento da Superintendência de Suporte e Dados e dono do blog romocavaleirodoespaco.blogspot.com.
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=174)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 
 ### Minicurso: Criando microsserviços com PHP e Zend Expressive
 
@@ -41,5 +41,5 @@ Neste workshop aprenderemos como implementar um cadastro de uma aplicação web 
 #### Currículo
 Flávio Gomes da Silva Lisboa é bacharel em Ciência da Computação, especialista em Aplicações Corporativas usando Orientação a Objetos e Tecnologia Java, Zend Certified PHP Engineer, Zend Framework Certified Engineer, Zend Framework 2 Certified Architect, mestrando em Tecnologia e Sociedade, autor pela Novatec Editora, professor de testes unitários na Unicesumar, analista de desenvolvimento da Superintendência de Suporte e Dados e dono do blog romocavaleirodoespaco.blogspot.com.
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=175)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

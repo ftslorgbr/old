@@ -14,5 +14,5 @@ excerpt: Weiberlan Garcia
 #### Currículo
 Weiberlan Garcia: CEO e Co-founder da ZeloPet, Formado em Análise e Desenvolvimento de Sistemas, Pós-graduado em Inovação e Gestão do Futuro pela OPET, Sete anos de experiência com Criação, Gestão e Desenvolvimento de Sistemas, Entusiasta dos novos modelos de criação e tendências tecnológicas. 
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=305)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 
