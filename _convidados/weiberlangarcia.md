@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weiberlan Garcia 
-image: wiberlangarcia
+image: weiberlangarcia
 excerpt: Weiberlan Garcia 
 ---
 
