@@ -4,7 +4,7 @@ title: Wilson Horstmeyer Bogado
 image: wilsonhorstmeyerbogado
 excerpt: Wilson Horstmeyer Bogado
 ---
-![Wilson Horstmeyer Bogado]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Wilson Horstmeyer Bogado]({{ site.baseurl }}/convidados/wilsonhorstmeyerbogado.jpg)
 
 
 ### Minicurso: OpenStack: Implantação e uso
