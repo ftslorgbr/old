@@ -4,7 +4,7 @@ title: Rodrigo Rosa Fragoso
 image: rodrigorosafragoso
 excerpt: Rodrigo Rosa Fragoso
 ---
-![Rodrigo Rosa Fragoso]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Rodrigo Rosa Fragoso]({{ site.baseurl }}/convidados/rodrigorosafragoso.jpg)
 
 
 ### Palestra: Internet Das Coisas aplicada aos processos de supervisão e controle de medições em saneamento
