@@ -29,5 +29,6 @@ A comunidade [Debian Brasil](https://debianbrasil.org.br) participará do FTSL p
 * [debian 101](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768061&id=f426c77164f7052f97fdde247f54e2ea&type=1&pid=263&day=3)
 * Samuel Henrique
 
-![Banner](https://debianbrasil.org.br/articles/0173/2750/banner-ftsl-2017-debian.png)
+![Palestras Debian]({{ site.baseurl }}/images/banner-ftsl-2017-debian.png)
+
 
