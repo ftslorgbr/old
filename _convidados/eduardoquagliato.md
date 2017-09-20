@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Rodrigo Temiski Muniz
-image: rodrigotemiskimuniz
-excerpt: Rodrigo Temiski Muniz
+title: Eduardo Quagliato
+image: eduardoquagliato
+excerpt: Eduardo Quagliato
 ---
-![Rodrigo Temiski Muniz]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+![Eduardo Quagliato]({{ site.baseurl }}/convidados/eduardoquagliato.jpg)
 
 
 ### Minicurso: Desenvolvendo módulos para NodeJS
@@ -12,7 +12,7 @@ excerpt: Rodrigo Temiski Muniz
 Em Javascript, módulos são códigos com funcionalidades específicas e encapsulados para serem reutilizados em projetos ou mesmo outros módulos. Neste minicurso você aprenderá a criar um módulo completamente do zero e publicá-lo no NPM (o repositório oficial de módulos para NodeJS), além de equipar seu projeto com métricas de código e automação de testes, entre outras melhorias.
 
 #### Currículo
-Desenvolvedor web desde 2011, atuante com C# e .NET e entusiasta de novas tecnologias. Usuário assíduo de NodeJS e Ruby.
+Desenvolvedor de software autodidata, usuário de linux, acredita no código aberto, trabalha atualmente com Node.js e tem experiência com JavaEE e PHP.
 
-[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505938322263&id=&type=2&pid=176&day=3)
 
