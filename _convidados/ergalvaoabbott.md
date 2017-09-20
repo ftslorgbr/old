@@ -22,7 +22,7 @@ Presidente da ABRAPHP – Associação Brasileira de Profissionais PHP
  17+ destes com PHP
  9+ com Zend Framework
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=210)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=210)
 
 ### Palestra: Top 10 Features do PHP Moderno
 
@@ -39,5 +39,5 @@ Presidente da ABRAPHP – Associação Brasileira de Profissionais PHP
  17+ destes com PHP
  9+ com Zend Framework
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=211)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=211)
 

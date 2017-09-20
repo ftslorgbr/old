@@ -22,5 +22,5 @@ Analista de suporte/infraestrutura.
  Gosta de Jedis, café e liberdade
  Free you mind!
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=177)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

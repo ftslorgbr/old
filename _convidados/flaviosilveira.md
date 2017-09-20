@@ -17,5 +17,5 @@ Uma das pessoas a frente do PHPPR @phppr_org, http://phppr.org.
 Já fui consultor e analista dentro de pequenas e grandes empresas, nacionais e multinacionais. Trabalhei com as mais variadas tecnologias dentro do universo WEB e Mobile. Hoje venho ajudando equipes de desenvolvimento a subir para o próximo nível, no técnico e no pessoal.
 Já realizei palestras e cursos por vários estados do Brasil, com temas técnicos e não técnicos. Revisei e traduzi de livros da área.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=300)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=300)
 

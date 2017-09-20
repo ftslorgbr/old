@@ -20,7 +20,7 @@ Sami Souza é designer, ilustrador e quadrinista que desenvolve todo o  seu trab
  Esteve  envolvido em projetos como as histórias em quadrinhos da Jornada  Mundial da Juventude, quadrinhos institucionais sobre doação de órgãos e  sobre igualdade racial.
  Hoje à frente de seu próprio estúdio usa o  Linux como base para produzir todo tipo de material gráfico para  impressão e para web, além de edições de vídeo e modelagens em 3D.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=287)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=287)
 
 ### Minicurso: Processo de  Ilustração Digital com Software Livre
 
@@ -33,5 +33,5 @@ Sami Souza é designer, ilustrador e quadrinista que desenvolve todo o  seu trab
  Esteve  envolvido em projetos como as histórias em quadrinhos da Jornada  Mundial da Juventude, quadrinhos institucionais sobre doação de órgãos e  sobre igualdade racial.
  Hoje à frente de seu próprio estúdio usa o  Linux como base para produzir todo tipo de material gráfico para  impressão e para web, além de edições de vídeo e modelagens em 3D.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=286)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

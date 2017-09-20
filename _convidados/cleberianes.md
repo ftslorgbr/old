@@ -14,7 +14,7 @@ Explanação sobre o que é uma distribuição GNU/Linux, como ela é formada, q
 #### Currículo
 Tecnólogo em Redes de Computadores por formação, Analista de Redes por profissão. Especialista em Gnu/Linux desde 1996, presta serviços de Consultoria e Assessoria em redes de computadores e segurança da informação para pequenas e médias empresas. Membro da Comunidade Curitiba Livre, participou da organização de vários eventos de Software Livre em Curitiba, desde 2013 como FliSol, SFD, FTSL, Palestra Richard Stallman, Debian Day, MiniDeb-Conf dentre outros.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=197)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=197)
 
 ### Palestra: PfSense, um firewall eficiente e acessível!
 
@@ -23,5 +23,5 @@ Introdução aos eficientes recursos do PfSense, um excelente firewall desenvolv
 #### Currículo
 Tecnólogo em Redes de Computadores por formação, Analista de Redes por profissão. Especialista em Gnu/Linux desde 1996, presta serviços de Consultoria e Assessoria em redes de computadores e segurança da informação para pequenas e médias empresas. Membro da Comunidade Curitiba Livre, participou da organização de vários eventos de Software Livre em Curitiba, desde 2013 como FliSol, SFD, FTSL, Palestra Richard Stallman, Debian Day, MiniDeb-Conf dentre outros.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=196)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=196)
 

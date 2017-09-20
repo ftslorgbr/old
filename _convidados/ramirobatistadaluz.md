@@ -14,7 +14,7 @@ Ansible é uma ferramenta de automação de TI para configuração de sistemas, 
 #### Currículo
 Desenvolvedor de software desde 1991, mestre pela Universidade Tecnológica Federal do Paraná, pesquisador da área de Engenharia de Software com ênfase em métodos ágeis do Programa de Pós-Graduação em Computação Aplicada. Programador da Câmara Municipal de Curitiba, fundador do grupo de usuários de python do Paraná e um dos fundadores do grupo dojo Paraná. Anfitrião da PythonBrasil[6] em 2010, membro da Associação Python Brasil.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=265)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=265)
 
 ### Palestra: Monitor de temperatura usando Arduino, zabbix e python
 
@@ -23,5 +23,5 @@ Palestra demonstrando o funcionamento do Arduíno com monitor de temperatura e u
 #### Currículo
 Desenvolvedor de software desde 1991, mestre pela Universidade Tecnológica Federal do Paraná, pesquisador da área de Engenharia de Software com ênfase em métodos ágeis do Programa de Pós-Graduação em Computação Aplicada. Programador da Câmara Municipal de Curitiba, fundador do grupo de usuários de python do Paraná e um dos fundadores do grupo dojo Paraná. Anfitrião da PythonBrasil[6] em 2010, membro da Associação Python Brasil.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=264)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=264)
 

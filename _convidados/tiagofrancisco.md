@@ -14,5 +14,5 @@ A Prefeitura de Curitiba através da Agência Curitiba SA está iniciando o fome
 #### Currículo
 Diretor Técnico da Agência Curitiba de Desenvolvimento e Inovação SA e Fundador da Campestrini empresa focada no desenvolvimento de soluções para a Construção Civil.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=298)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=298)
 

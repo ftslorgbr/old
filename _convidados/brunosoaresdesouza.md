@@ -29,5 +29,5 @@ Aluno da Universidade Tecnológica Federal do Paraná - UTFPR, do curso de Bacha
  
  
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=229)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=229)
 

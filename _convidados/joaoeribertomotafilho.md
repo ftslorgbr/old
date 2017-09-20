@@ -14,7 +14,7 @@ A ideia é gerar alertas de anomalias, via log, e tratá-los imediatamente. Esse
 #### Currículo
 Oficial de Cavalaria do Exército Brasileiro. Gerente de Rede e de Segurança em Rede no Exército. Professor da Pós-graduação em Perícia Digital na Universidade Católica de Brasília (UCB). Autor dos livros Linux & Seus Servidores (2000), Pequenas Redes com Microsoft Windows (2001), Descobrindo o Linux (3ª edição em 2012) e Análise de tráfego em redes TCP/IP (2013). Desenvolvedor Debian. Membro do time de Forense do Debian
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=248)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=248)
 
 ### Palestra: inotify: observando seus arquivos e tomando decisões de segurança em tempo real
 
@@ -23,7 +23,7 @@ O inotify é um subsistema que provê eventos de notificação provenientes do s
 #### Currículo
 Oficial de Cavalaria do Exército Brasileiro. Gerente de Rede e de Segurança em Rede no Exército. Professor da Pós-graduação em Perícia Digital na Universidade Católica de Brasília (UCB). Autor dos livros Linux & Seus Servidores (2000), Pequenas Redes com Microsoft Windows (2001), Descobrindo o Linux (3ª edição em 2012) e Análise de tráfego em redes TCP/IP (2013). Desenvolvedor Debian. Membro do time de Forense do Debian
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=244)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=244)
 
 ### Palestra: PARTE 1/3 - (in)Segurança digital para seres humanos
 
@@ -32,7 +32,7 @@ Uma palestra com duração de 3 horas (dividida em 3 partes), sobre segurança p
 #### Currículo
 Oficial de Cavalaria do Exército Brasileiro. Gerente de Rede e de Segurança em Rede no Exército. Professor da Pós-graduação em Perícia Digital na Universidade Católica de Brasília (UCB). Autor dos livros Linux & Seus Servidores (2000), Pequenas Redes com Microsoft Windows (2001), Descobrindo o Linux (3ª edição em 2012) e Análise de tráfego em redes TCP/IP (2013). Desenvolvedor Debian. Membro do time de Forense do Debian
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=249)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=249)
 
 ### Palestra: PARTE 2/3 - (in)Segurança digital para seres humanos
 
@@ -41,7 +41,7 @@ Uma palestra com duração de 3 horas (dividida em 3 partes), sobre segurança p
 #### Currículo
 Oficial de Cavalaria do Exército Brasileiro. Gerente de Rede e de Segurança em Rede no Exército. Professor da Pós-graduação em Perícia Digital na Universidade Católica de Brasília (UCB). Autor dos livros Linux & Seus Servidores (2000), Pequenas Redes com Microsoft Windows (2001), Descobrindo o Linux (3ª edição em 2012) e Análise de tráfego em redes TCP/IP (2013). Desenvolvedor Debian. Membro do time de Forense do Debian
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=258)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=258)
 
 ### Palestra: PARTE 3/3 - (in)Segurança digital para seres humanos
 
@@ -50,7 +50,7 @@ Uma palestra com duração de 3 horas (dividida em 3 partes), sobre segurança p
 #### Currículo
 Oficial de Cavalaria do Exército Brasileiro. Gerente de Rede e de Segurança em Rede no Exército. Professor da Pós-graduação em Perícia Digital na Universidade Católica de Brasília (UCB). Autor dos livros Linux & Seus Servidores (2000), Pequenas Redes com Microsoft Windows (2001), Descobrindo o Linux (3ª edição em 2012) e Análise de tráfego em redes TCP/IP (2013). Desenvolvedor Debian. Membro do time de Forense do Debian
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=259)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=259)
 
 ### Palestra: Sistemas de firewall
 
@@ -59,7 +59,7 @@ Um firewall (em português: parede de fogo) é um dispositivo de uma rede de com
 #### Currículo
 Oficial de Cavalaria do Exército Brasileiro. Gerente de Rede e de Segurança em Rede no Exército. Professor da Pós-graduação em Perícia Digital na Universidade Católica de Brasília (UCB). Autor dos livros Linux & Seus Servidores (2000), Pequenas Redes com Microsoft Windows (2001), Descobrindo o Linux (3ª edição em 2012) e Análise de tráfego em redes TCP/IP (2013). Desenvolvedor Debian. Membro do time de Forense do Debian
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=246)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=246)
 
 ### Minicurso: Análise de Tráfego em Redes TCP/IP
 
@@ -70,5 +70,5 @@ Muitas vezes, administradores de redes não dominam conceitos sobre protocolos e
 #### Currículo
 Oficial de Cavalaria do Exército Brasileiro. Gerente de Rede e de Segurança em Rede no Exército. Professor da Pós-graduação em Perícia Digital na Universidade Católica de Brasília (UCB). Autor dos livros Linux & Seus Servidores (2000), Pequenas Redes com Microsoft Windows (2001), Descobrindo o Linux (3ª edição em 2012) e Análise de tráfego em redes TCP/IP (2013). Desenvolvedor Debian. Membro do time de Forense do Debian
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=250)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 
