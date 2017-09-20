@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Incrições para minicursos abertas!"
+title:  "Inscrições para minicursos abertas!"
 image: "artigos.jpg"
 excerpt: "Vagas limitadas. Veja programação para mais informações."
 ---
