@@ -15,5 +15,5 @@ O curso apresenta os conceitos da Gestão de Projetos abordando a relação da t
 O instrutor é Especialista Certificado em Pontos de Função (CFPS) e desde 2011 trabalha com a métrica Análise de Pontos de Função atuando como consultor e instrutor na área de métricas no setor público e privado. É entusiasta do projeto LibreOffice por ser uma Suite Office poderosa e livre.
  
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=216)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=216)
 

@@ -15,5 +15,5 @@ A otimização de processos em saneamento pode ter início pela exposição dos 
 #### Currículo
 Analista de Informática, Bacharel em Sistemas de Informação, pós-graduando em Mecatrônica Industrial pela PUC-PR. Atualmente é funcionário da SANEPAR, atuando no suporte à infraestrutura em ambiente Linux e aplicações corporativas JAVA EE. Tem atuado em projetos de automação industrial integrando, pesquisando e avaliando equipamentos com ênfase em internet das coisas. 
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=255)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=255)
 

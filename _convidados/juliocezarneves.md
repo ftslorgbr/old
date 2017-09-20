@@ -14,7 +14,7 @@ Será mostrado todo o poder do shell, sua produtividade, situações em que veri
 #### Currículo
 O 4º UNIX do mundo nasceu na Cidade Maravilhosa, mais precisamente na Cobra Computadores, onde à época trabalhava o Julio. Foi paixão à 1ª vista! Desde então, (1980) atua nessa área como especialista em Sistemas Operacionais e linguagens de programação. E foi por essa afinidade que quando surgiu o Linux foi um dos primeiros a estudá-lo com profundidade e adotá-lo como Sistema Operacional e filosofia de vida.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=251)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=251)
 
 ### Minicurso: Tudo sobre Expressões Regulares 
 
@@ -23,5 +23,5 @@ As Expressões Regulares são usadas em todas as linguagens atuais e em todos os
 #### Currículo
 O 4º UNIX do mundo nasceu na Cidade Maravilhosa, mais precisamente na Cobra Computadores, onde à época trabalhava o Julio. Foi paixão à 1ª vista! Desde então, (1980) atua nessa área como especialista em Sistemas Operacionais e linguagens de programação. E foi por essa afinidade que quando surgiu o Linux foi um dos primeiros a estudá-lo com profundidade e adotá-lo como Sistema Operacional e filosofia de vida.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=252)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

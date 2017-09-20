@@ -14,5 +14,5 @@ No mercado atual, para se manter relevantes e competitivos, é necessário a cri
 #### Currículo
 Boris Kuszka, formado em Engenharia Elétrica pela Politécnica da USP, lidera o time de Arquitetos de Soluções da Red hat com especialistas nas soluções de Cloud Computing, DevOps e Middleware. Com mais de 25 anos de experiência no setor de tecnologia, o executivo já passou por diversas companhias importantes do setor, como IBM, Sun, Nokia, Oracle, HP e a NetApp.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=271)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=271)
 

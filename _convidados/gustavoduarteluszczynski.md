@@ -20,5 +20,5 @@ Nessa palestra iremos ressaltar as principais diferenças que existem entre o mu
 #### Currículo
 Gustavo Luszczynski, bacharel em Ciência da Computação pela UCB. Trabalha com Linux há mais de 10 anos e possui vasta experiência em Java. Atualmente exerce a função de Arq. de Solução Middleware na Red Hat. Especialista na plataforma de containers Openshift.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=274)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=274)
 

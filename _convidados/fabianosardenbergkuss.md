@@ -14,7 +14,7 @@ Apresentar a placa de desenvolvimento NodeMCU, projeto open-source com capacidad
 #### Currículo
 Doutorando e mestre em informática pela Universidade Federal do Paraná. Analista de sistemas do Serviço Federal de Processamento de Dados (SERPRO). Trabalho com pesquisa em tecnologias utilizando sistemas embarcados e SoC como ferramentas de apoio as atividades de ensino e aprendizagem.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=208)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=208)
 
 ### Palestra: Programando a interface GPIO no Raspberry Pi
 
@@ -23,7 +23,7 @@ Durante a palestra serão apresentados conceitos básicos do uso da interface GP
 #### Currículo
 Doutorando e mestre em informática pela Universidade Federal do Paraná. Analista de sistemas do Serviço Federal de Processamento de Dados (SERPRO). Trabalho com pesquisa em tecnologias utilizando sistemas embarcados e SoC como ferramentas de apoio as atividades de ensino e aprendizagem.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=207)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=207)
 
 ### Minicurso: ESP8266: Integrando Wi-Fi e IoT
 
@@ -32,5 +32,5 @@ Apresentar a arquitetura básica do modulo NodeMCU, uma placa para criação de 
 #### Currículo
 Doutorando e mestre em informática pela Universidade Federal do Paraná. Analista de sistemas do Serviço Federal de Processamento de Dados (SERPRO). Trabalho com pesquisa em tecnologias utilizando sistemas embarcados e SoC como ferramentas de apoio as atividades de ensino e aprendizagem.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=206)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 

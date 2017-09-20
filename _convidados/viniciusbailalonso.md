@@ -15,5 +15,5 @@ Começando a partir de testes simples até o desenvolvimento de funcionalidades 
 #### Currículo
 Cursando especialização em Engenharia de Software (PUC-PR). Graduado no curso de Tecnologia em Sistemas para a Internet (UTFPR-GP). Com quase 4 anos de experiência trabalhando como desenvolvedor web full stack. Membro do Grupo de Usuários Ruby do Paraná (GURU-PR). Já palestrou em edições anteriores do FTSL e no TDC em Florianópolis e São Paulo. Atualmente trabalha como desenvolvedor pleno na empresa Softfocus.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=213)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=213)
 

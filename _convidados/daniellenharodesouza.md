@@ -14,7 +14,7 @@ O Debian possui um esforço de manter todo seu sistema traduzido para diversos i
 #### Currículo
 Analista de Informática, Especialista em Redes e Segurança da Informação. Membro das Comunidades Curitiba Livre e Debian, promovendo o uso do Software Livre em diversos eventos pelo Brasil. Atua na organização de diversos eventos (FISL, Mini-DebConf, SFD, FLISOL, entre outros). 
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=262)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=262)
 
 ### Palestra: Debian - O sistema universal
 
@@ -23,7 +23,7 @@ Esta palestra tem como objetivo, apresentar o que é o Debian, sua organização
 #### Currículo
 Analista de Informática, Especialista em Redes e Segurança da Informação. Membro das Comunidades Curitiba Livre e Debian, promovendo o uso do Software Livre em diversos eventos pelo Brasil. Atua na organização de diversos eventos (FISL, Mini-DebConf, SFD, FLISOL, entre outros). 
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=180)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=180)
 
 ### Encontro: Encontro Comunidade Curitiba Livre
 
@@ -32,5 +32,5 @@ A Comunidade Curitiba Livre é um grupo de estudo que atua em prol do movimento 
 #### Currículo
 Analista de Informática, Especialista em Redes e Segurança da Informação. Membro das Comunidades Curitiba Livre e Debian, promovendo o uso do Software Livre em diversos eventos pelo Brasil. Atua na organização de diversos eventos (FISL, Mini-DebConf, SFD, FLISOL, entre outros). 
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=181)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=181)
 

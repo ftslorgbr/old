@@ -15,5 +15,5 @@ Segundo relatórios estatísticos originados pelas Nações Unidas, cerca de 70%
 Stephany Dionysio é doutoranda no Programa de Pós-graduação em Ciência da Computação na Universidade Federal do Paraná (UFPR), com foco de pesquisa em tecnologias emergentes viabilizadoras de Cidades Inteligentes, abrangendo Internet das Coisas, Computação em Nevoeiro e Computação em Nuvem. 
 Atualmente, ocupa o cargo de Arquiteta de Soluções na Telefônica Brasil, onde atua em projetos de telecomunicação, inovação e transformação digital.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=185)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=185)
 

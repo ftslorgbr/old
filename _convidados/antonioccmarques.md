@@ -21,6 +21,3 @@ Nesta palestra vamos falar da experiência de um usuário que não é DD ou DM, 
 
 #### Currículo
 Possui graduação em Filosofia pela Pontifícia Universidade Católica do Paraná (1990). Com Especialização em Metodologia da Ciência Pela Faculdades Integradas Espiritas. Possui uma segunda Especialização em Formulação e Gestão de Politicas Publicas. Mestrado pela Universidade Federal do Paraná, UFPR, com o projeto Título: O PROJETO UM COMPUTADOR POR ALUNO UCA: REAÇÕES NA ESCOLA, PROFESSORES, ALUNOS, INSTITUCIONAL,Ano de Obtenção: 2009.
-
-
-

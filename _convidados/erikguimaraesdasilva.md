@@ -14,5 +14,5 @@ Conheça esse fantástico e simples framework javascript para criação de inter
 #### Currículo
 Web Developer desde 2008, graduado em Sistemas de Informação, mestrando em Computação Aplicada pela UTFPR. Experiência com contribuição de SL, especialmente Softwares Públicos. Entusiasta de novas tecnologias abertas para o desenvolvimento web.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=209)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=209)
 

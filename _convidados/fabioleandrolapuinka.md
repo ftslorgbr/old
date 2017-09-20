@@ -29,5 +29,5 @@ Profissional de informática a mais de 25 anos, atuando em empresas como Siemens
  
  https://goo.gl/Lwq9z1
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=214)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=214)
 

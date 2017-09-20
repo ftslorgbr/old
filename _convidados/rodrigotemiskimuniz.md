@@ -14,5 +14,5 @@ Em Javascript, módulos são códigos com funcionalidades específicas e encapsu
 #### Currículo
 Desenvolvedor web desde 2011, atuante com C# e .NET e entusiasta de novas tecnologias. Usuário assíduo de NodeJS e Ruby.
 
-[Clique aqui para ver na grade](http://sistema.ftsl.org.br/ftsl9/grade/detail.html?pid=176)
+[Clique aqui para ver na grade](https://ftsl.websiteseguro.com/ftsl9/grade/)
 
