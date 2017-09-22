@@ -8,7 +8,7 @@ permalink: /2017/09/22/minicursoscomvagas.html
 excerpt: Mini-cursos com vagas e lista de espera
 ---
 
-A poucos dias do fórum ainda há mini-cursos com vagas e lista de espera. Confira abaixo:
+A poucos dias do fórum ainda há mini-cursos com vagas. Confira abaixo:
 
 > Distribua seus aplicativos com [Flatpak](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102009094&id=&type=2&pid=299&day=3);
 
@@ -29,6 +29,8 @@ A poucos dias do fórum ainda há mini-cursos com vagas e lista de espera. Confi
 **IMPORTANTE**
 
 Se não estiver vendo o Lab 5 na programação (Design Thinking), limpe o cache do navegador ou utilize uma janela privativa (tambem conhecida como anônima ou incógnito).
+
+[Para ver todos os minicursos (pode-se entrar na lista de espera) - clique aqui](https://ftsl.websiteseguro.com/ftsl9/grade/)
 
 ![Mini-cursos com vagas e lista de espera]({{ site.baseurl }}/images/ftsl_cursos.png)
 
