@@ -10,23 +10,23 @@ excerpt: Mini-cursos com vagas e lista de espera
 
 A poucos dias do fórum ainda há mini-cursos com vagas e lista de espera.
 
-* Distribua com [Flatpak](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102009094&id=&type=2&pid=299&day=3);
+* Distribua com [Flatpak](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=299);
 
-* Sistemas Operacionais (GNU/Linux e [OpenBSD](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102043304&id=&type=2&pid=193&day=2));
+* Sistemas Operacionais (GNU/Linux e [OpenBSD](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=193));
 
-* Microserviços (com [JEE7](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102065319&id=&type=2&pid=272&day=1) ou [PHP](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102152637&id=&type=2&pid=175&day=3));
+* Microserviços (com [JEE7](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=272&day=1) ou [PHP](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=175));
 
-* [Estatistica com R](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102196503&id=&type=2&pid=178&day=2);
+* [Estatistica com R](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=178);
 
-* Monte a sua [Root CA ou Nuvem (com OpenStack)](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102065323&id=&type=2&pid=233&day=1);
+* Monte a sua [Root CA ou Nuvem (com OpenStack)](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=233);
 
-* [Ilustração Digital](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102065323&id=&type=2&pid=286&day=1);
+* [Ilustração Digital](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=286);
 
-* [Design Thinking](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102152638&id=&type=2&pid=304&day=3);
+* [Design Thinking](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=304);
 
-* Liberte seu celular ([Android Livre](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102196504&id=&type=2&pid=277&day=2));
+* Liberte seu celular ([Android Livre](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=277));
 
-* [Tudo sobre Expressões Regulares](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102065322&id=&type=2&pid=252&day=1);
+* [Tudo sobre Expressões Regulares](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?pid=252);
 
 ![Mini-cursos com vagas e lista de espera]({{ site.baseurl }}/images/ftsl_cursos.png)
 
