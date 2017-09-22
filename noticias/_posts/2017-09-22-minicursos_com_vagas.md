@@ -26,8 +26,6 @@ A poucos dias do fórum ainda há mini-cursos com vagas e lista de espera. Confi
 
 > Liberte seu celular ([Android Livre](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102196504&id=&type=2&pid=277&day=2));
 
-> [Tudo sobre Expressões Regulares](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102065322&id=&type=2&pid=252&day=1);
-
 **IMPORTANTE**
 
 Se não estiver vendo o Lab 5 na programação (Design Thinking), limpe o cache do navegador ou utilize uma janela privativa (tambem conhecida como anônima ou incógnito).
