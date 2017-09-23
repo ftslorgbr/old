@@ -5,10 +5,10 @@ date:   2017-09-22 14:30:19 -0300
 categories: jekyll update
 image: "ftsl_cursos.png"
 permalink: /2017/09/22/minicursoscomvagas.html
-excerpt: Mini-cursos com vagas e lista de espera
+excerpt: Minicursos com vagas e lista de espera
 ---
 
-A poucos dias do fórum ainda há mini-cursos com vagas. Confira abaixo:
+A poucos dias do fórum ainda há minicursos com vagas. Confira abaixo:
 
 > [Design Thinking - manhã](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102152638&id=&type=2&pid=304&day=3) e [Design Thinking - noite](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506106720989&id=&type=2&pid=305&day=3);
 
