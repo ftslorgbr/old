@@ -10,6 +10,8 @@ excerpt: Mini-cursos com vagas e lista de espera
 
 A poucos dias do fórum ainda há mini-cursos com vagas. Confira abaixo:
 
+> [Design Thinking - manhã](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102152638&id=&type=2&pid=304&day=3) e [Design Thinking - noite](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506106720989&id=&type=2&pid=305&day=3);
+
 > Distribua seus aplicativos com [Flatpak](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102009094&id=&type=2&pid=299&day=3);
 
 > Sistemas Operacionais ([GNU/Linux](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=9999&type=2&pid=317&day=3) e [OpenBSD](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102043304&id=&type=2&pid=193&day=2));
@@ -18,11 +20,9 @@ A poucos dias do fórum ainda há mini-cursos com vagas. Confira abaixo:
 
 > [Estatística com R](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102196503&id=&type=2&pid=178&day=2);
 
-> Monte a sua [Root CA ou Nuvem (com OpenStack)](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102065323&id=&type=2&pid=233&day=1);
+> Monte a sua [autoridade certificadora raíz](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102065323&id=&type=2&pid=233&day=1) ou [Nuvem (com OpenStack)](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=9&type=2&pid=228&day=2);
 
 > [Ilustração Digital](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102065323&id=&type=2&pid=286&day=1);
-
-> [Design Thinking - manhã](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102152638&id=&type=2&pid=304&day=3) e [Design Thinking - noite](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506106720989&id=&type=2&pid=305&day=3);
 
 > Liberte seu celular ([Android Livre](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1506102196504&id=&type=2&pid=277&day=2));
 
