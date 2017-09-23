@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Minicursos com vagas e lista de espera"
+title:  "Minicursos com vagas"
 date:   2017-09-22 14:30:19 -0300
 categories: jekyll update
 image: "ftsl_cursos.png"
 permalink: /2017/09/22/minicursoscomvagas.html
-excerpt: Minicursos com vagas e lista de espera
+excerpt: Alguns minicursos ainda tem vagas
 ---
 
 A poucos dias do fórum ainda há minicursos com vagas. Confira abaixo:
