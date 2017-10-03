@@ -19,7 +19,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 * Arquivo da apresentação:
 * Palestante: Antonio C C Marques
 
-![Antonio](http://debianbrasil.org.br/imagens/ftsl-2017-debian-antonio.jpg)
+![Antonio](http://debianbrasil.org.br/imagens/ftsl-2017-debian-antonio.jpg){:width="800px"}
 
 ### 2 - Como se tornar um membro oficial do Debian (DD ou DM)
 
@@ -32,10 +32,10 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 
 ### 3 - Debian - O sistema universal
 
-* (https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768058&amp;id=f426c77164f7052f97fdde247f54e2ea&amp;type=1&amp;pid=180&amp;day=3)Descrição
-* Arquivo da apresentação: (http://debianbrasil.org.br/arquivos-de-apresentacoes/debian-o-sistema-universal-daniel-lenharo-ftsl-2017.pdf)pdf
-* Vídeo da palestra: (https://www.youtube.com/watch?v=McUhtsBhu6E&amp;feature=youtu.be)youtube e (http://hemingway.softwarelivre.org/videos-diversos/debian/ftsl-2017/ftsl-2017-daniel-lenharo-debian-o-sistema-universal.ogv)ogv
-* Palestante: (https://contributors.debian.org/contributor/lenharo@debian.org/)Daniel Lenharo de Souza
+* [Descrição](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768058&amp;id=f426c77164f7052f97fdde247f54e2ea&amp;type=1&amp;pid=180&amp;day=3)
+* Arquivo da apresentação: [pdf](http://debianbrasil.org.br/arquivos-de-apresentacoes/debian-o-sistema-universal-daniel-lenharo-ftsl-2017.pdf)
+* Vídeo da palestra: [youtube](https://www.youtube.com/watch?v=McUhtsBhu6E&amp;feature=youtu.be) e [ogv](http://hemingway.softwarelivre.org/videos-diversos/debian/ftsl-2017/ftsl-2017-daniel-lenharo-debian-o-sistema-universal.ogv)
+* Palestante: [Daniel Lenharo de Douza](https://contributors.debian.org/contributor/lenharo@debian.org/)
 
 ![Daniel](http://debianbrasil.org.br/imagens/ftsl-2017-debian-daniel-1.jpg)
 
@@ -94,3 +94,6 @@ Agradecemos imensamente aos organizadores do FTSL 2017 pelo empenho na organiza�
 ![Alisson e Christian](http://debianbrasil.org.br/imagens/ftsl-2017-alisson-christian.jpg)
 
 Alisson Coelho e Christian Mendes - coordenadores da organização do FTSL 2017
+
+Todas as fotos podem ser vistas aqui [https://www.flickr.com/photos/curitibalivre/sets/72157661046698288](https://www.flickr.com/photos/curitibalivre/sets/72157661046698288)
+
