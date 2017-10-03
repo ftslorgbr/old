@@ -19,7 +19,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 * Arquivo da apresentação:
 * Palestante: Antonio C C Marques
 
-![Antonio](http://debianbrasil.org.br/imagens/ftsl-2017-debian-antonio.jpg){: width=800px}
+![Antonio](http://debianbrasil.org.br/imagens/ftsl-2017-debian-antonio.jpg){:height="600px" width="800px"}
 
 ### 2 - Como se tornar um membro oficial do Debian (DD ou DM)
 
