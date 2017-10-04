@@ -58,7 +58,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 ### 6 - Debian 101
 
 * [Descrição](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768061&amp;id=f426c77164f7052f97fdde247f54e2ea&amp;type=1&amp;pid=263&amp;day=3)
-* Arquivo da apresentação: pdf
+* Arquivo da apresentação: 
 * Palestrante: [Samuel Henrique](https://contributors.debian.org/contributor/samueloph-guest@alioth/)
 
 ![Samuel](http://debianbrasil.org.br/imagens/ftsl-2017-debian-samuel.jpg)
