@@ -19,7 +19,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 * Arquivo da apresentação:
 * Palestante: Antonio C C Marques
 
-![Antonio]({{ site.baseurl }}/images/ftsl-2017-debian-antonio.jpg)
+![Antonio](http://debianbrasil.org.br/imagens/ftsl-2017-debian-antonio.jpg)
 
 ### 2 - Como se tornar um membro oficial do Debian (DD ou DM)
 
@@ -28,7 +28,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 * Vídeo da palestra: [youtube](https://www.youtube.com/watch?v=UGuv-PZYr3w) e [ogv](http://hemingway.softwarelivre.org/videos-diversos/debian/ftsl-2017/ftsl-2017-joao-eriberto-como-se-tornar-um-membro-oficial-do-debian-dd-ou-dm.ogv)
 * Palestrante: [João Eriberto Mota Filho](https://contributors.debian.org/contributor/eriberto@debian.org)
 
-![Eriberto]({{ site.baseurl }}/images/ftsl-2017-debian-eriberto.jpg)
+![Eriberto](http://debianbrasil.org.br/imagens/ftsl-2017-debian-eriberto.jpg)
 
 ### 3 - Debian - O sistema universal
 
@@ -37,7 +37,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 * Vídeo da palestra: [youtube](https://www.youtube.com/watch?v=McUhtsBhu6E&amp;feature=youtu.be) e [ogv](http://hemingway.softwarelivre.org/videos-diversos/debian/ftsl-2017/ftsl-2017-daniel-lenharo-debian-o-sistema-universal.ogv)
 * Palestante: [Daniel Lenharo de Douza](https://contributors.debian.org/contributor/lenharo@debian.org/)
 
-![Daniel]({{ site.baseurl }}/images/ftsl-2017-debian-daniel-1.jpg)
+![Daniel](http://debianbrasil.org.br/imagens/ftsl-2017-debian-daniel-1.jpg)
 
 ### 4 - O Projeto Debian quer você!
 
@@ -45,7 +45,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 * Arquivo da apresentação: [pdf](http://debianbrasil.org.br/arquivos-de-apresentacoes/o-projeto-debian-quer-voce-paulo-santana-ftsl-2017.pdf) e [odp](http://debianbrasil.org.br/arquivos-de-apresentacoes/o-projeto-debian-quer-voce-paulo-santana-ftsl-2017.odp)
 * Palestrante: [Paulo Henrique de Lima Santana](https://contributors.debian.org/contributor/phls-guest@alioth/)
 
-![Paulo]({{ site.baseurl }}/images/ftsl-2017-debian-paulo.jpg)
+![Paulo](http://debianbrasil.org.br/imagens/ftsl-2017-debian-paulo.jpg)
 
 ### 5 - Conhecendo o trabalho da equipe de tradução do Debian
 
@@ -53,7 +53,11 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 * Arquivo da apresentação: [pdf](http://debianbrasil.org.br/arquivos-de-apresentacoes/conhecendo-o-trabalho-da-equipe-de-traducao-do-debian-daniel-lenharo-ftsl-2017.pdf)
 * Palestrante: [Daniel Lenharo de Souza](https://contributors.debian.org/contributor/lenharo@debian.org/)
 
+<<<<<<< HEAD
 ![Daniel 2]({{ site.baseurl }}/images/ftsl-2017-debian-daniel-2.jpg)
+=======
+![Daniel 2](http://debianbrasil.org.br/imagens/ftsl-2017-debian-daniel-2.jpg)
+>>>>>>> upstream/master
 
 ### 6 - Debian 101
 
@@ -61,37 +65,37 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 * Arquivo da apresentação: 
 * Palestrante: [Samuel Henrique](https://contributors.debian.org/contributor/samueloph-guest@alioth/)
 
-![Samuel]({{ site.baseurl }}/images/ftsl-2017-debian-samuel.jpg)
+![Samuel](http://debianbrasil.org.br/imagens/ftsl-2017-debian-samuel.jpg)
 
 Aproveitamos o FTSL para vender vários produtos produzidos pela [Comunidade Curitiba Livre](http://curitibalivre.org.br/) para os participantes. Lembrando que o lucro revertido para a organização de futuros eventos de Software Livre. Você pode ver nas fotos abaixo os produtos:
 
-![Produtos 1]({{ site.baseurl }}/images/ftsl-2017-debian-produtos-1.jpg)
+![Produtos 1](http://debianbrasil.org.br/imagens/ftsl-2017-debian-produtos-1.jpg)
 
-![Produtos 2]({{ site.baseurl }}/images/ftsl-2017-debian-produtos-2.jpg)
+![Produtos 2](http://debianbrasil.org.br/imagens/ftsl-2017-debian-produtos-2.jpg)
 
-![Produtos 3]({{ site.baseurl }}/images/ftsl-2017-debian-produtos-3.jpg)
+![Produtos 3](http://debianbrasil.org.br/imagens/ftsl-2017-debian-produtos-3.jpg)
 
-![Produtos 4]({{ site.baseurl }}/images/ftsl-2017-debian-produtos-4.jpg)
+![Produtos 4](http://debianbrasil.org.br/imagens/ftsl-2017-debian-produtos-4.jpg)
 
-![Produtos 5]({{ site.baseurl }}/images/ftsl-2017-debian-produtos-5.jpg)
+![Produtos 5](http://debianbrasil.org.br/imagens/ftsl-2017-debian-produtos-5.jpg)
 
 Entre os produtos novos que fizemos está a camisa "Debian Women" para incentivar a participação de mais mulheres no Projeto Debian. Para saber mais sobre o projeto Debian Women acesse [https://www.debian.org/women](https://www.debian.org/women/index.pt.html) e a wiki brasileira [https://wiki.debian.org/MulheresBrasil](https://wiki.debian.org/MulheresBrasil)
 
 A [Adriana da Costa](http://mulheres.eti.br/) garantiu a camisa dela :-)
 
-![Adriana]({{ site.baseurl }}/images/ftsl-2017-debian-adriana.jpg)
+![Adriana](http://debianbrasil.org.br/imagens/ftsl-2017-debian-adriana.jpg)
 
 Para comprar os produtos online, acesse o site: [http://loja.curitibalivre.org.br](http://loja.curitibalivre.org.br)
 
 Juntamos o pessoal para tirar uma foto:
 
-![Todos]({{ site.baseurl }}/images/ftsl-2017-debian-todos.jpg)
+![Todos](http://debianbrasil.org.br/imagens/ftsl-2017-debian-todos.jpg)
 
 Da esquerda pra direita: Eriberto, Paulo, Adriana, Daniel, Antonio e Samuel
 
 Agradecemos imensamente aos organizadores do FTSL 2017 pelo empenho na organização do evento e pela disponibilidade do espaço para realizamos nossas atividades. A organização está de parabéns pelo sucesso do FTSL 2017.
 
-![Alisson e Christian]({{ site.baseurl }}/images/ftsl-2017-alisson-christian.jpg)
+![Alisson e Christian](http://debianbrasil.org.br/imagens/ftsl-2017-alisson-christian.jpg)
 
 Alisson Coelho e Christian Mendes - coordenadores da organização do FTSL 2017
 
