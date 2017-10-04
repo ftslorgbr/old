@@ -13,7 +13,7 @@ Algumas dessas comunidades que realizaram suas atividades foram: [PHP](https://p
 
 A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 
-### 1 - Por que sou usuário do GNU/Linux/DEBIAN?
+#### 1 - Por que sou usuário do GNU/Linux/DEBIAN?
 
 * [Descrição](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505875049391&amp;id=f426c77164f7052f97fdde247f54e2ea&amp;type=1&amp;pid=322&amp;day=3)
 * Arquivo da apresentação:
@@ -21,7 +21,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 
 ![Antonio]({{ site.baseurl }}/images/ftsl-2017-debian-antonio.jpg)
 
-### 2 - Como se tornar um membro oficial do Debian (DD ou DM)
+#### 2 - Como se tornar um membro oficial do Debian (DD ou DM)
 
 * [Descrição](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768056&amp;id=f426c77164f7052f97fdde247f54e2ea&amp;type=1&amp;pid=307&amp;day=3) 
 * Arquivo da apresentação: [pdf](http://www.eriberto.pro.br/palestras/debian-dd.pdf)
@@ -30,7 +30,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 
 ![Eriberto]({{ site.baseurl }}/images/ftsl-2017-debian-eriberto.jpg)
 
-### 3 - Debian - O sistema universal
+#### 3 - Debian - O sistema universal
 
 * [Descrição](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768058&amp;id=f426c77164f7052f97fdde247f54e2ea&amp;type=1&amp;pid=180&amp;day=3)
 * Arquivo da apresentação: [pdf](http://debianbrasil.org.br/arquivos-de-apresentacoes/debian-o-sistema-universal-daniel-lenharo-ftsl-2017.pdf)
@@ -39,7 +39,7 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 
 ![Daniel]({{ site.baseurl }}/images/ftsl-2017-debian-daniel-1.jpg)
 
-### 4 - O Projeto Debian quer você!
+#### 4 - O Projeto Debian quer você!
 
 * [Descrição](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768059&amp;id=f426c77164f7052f97fdde247f54e2ea&amp;type=1&amp;pid=260&amp;day=3)
 * Arquivo da apresentação: [pdf](http://debianbrasil.org.br/arquivos-de-apresentacoes/o-projeto-debian-quer-voce-paulo-santana-ftsl-2017.pdf) e [odp](http://debianbrasil.org.br/arquivos-de-apresentacoes/o-projeto-debian-quer-voce-paulo-santana-ftsl-2017.odp)
@@ -47,19 +47,15 @@ A Comunidade Debian realizou 6 palestras ao longo do terceiro dia:
 
 ![Paulo]({{ site.baseurl }}/images/ftsl-2017-debian-paulo.jpg)
 
-### 5 - Conhecendo o trabalho da equipe de tradução do Debian
+#### 5 - Conhecendo o trabalho da equipe de tradução do Debian
 
 * [Descrição](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768060&amp;id=f426c77164f7052f97fdde247f54e2ea&amp;type=1&amp;pid=262&amp;day=3)
 * Arquivo da apresentação: [pdf](http://debianbrasil.org.br/arquivos-de-apresentacoes/conhecendo-o-trabalho-da-equipe-de-traducao-do-debian-daniel-lenharo-ftsl-2017.pdf)
 * Palestrante: [Daniel Lenharo de Souza](https://contributors.debian.org/contributor/lenharo@debian.org/)
 
-<<<<<<< HEAD
 ![Daniel 2]({{ site.baseurl }}/images/ftsl-2017-debian-daniel-2.jpg)
-=======
-![Daniel 2]({{ site.baseurl }}/images/ftsl-2017-debian-daniel-2.jpg)
->>>>>>> upstream/master
 
-### 6 - Debian 101
+#### 6 - Debian 101
 
 * [Descrição](https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768061&amp;id=f426c77164f7052f97fdde247f54e2ea&amp;type=1&amp;pid=263&amp;day=3)
 * Arquivo da apresentação: 
